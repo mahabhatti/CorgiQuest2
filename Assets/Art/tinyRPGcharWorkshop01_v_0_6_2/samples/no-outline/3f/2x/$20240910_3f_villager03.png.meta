@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: f2bbc42e105c1474bb0b461c9cceb3c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6097092051087288318
+    second: $20240910_3f_villager03_0
+  - first:
+      213: -6456236500215418447
+    second: $20240910_3f_villager03_1
+  - first:
+      213: -5976732313697277878
+    second: $20240910_3f_villager03_2
+  - first:
+      213: 7217556269120753836
+    second: $20240910_3f_villager03_3
+  - first:
+      213: -4920057618932446373
+    second: $20240910_3f_villager03_4
+  - first:
+      213: -5404788413450304120
+    second: $20240910_3f_villager03_5
+  - first:
+      213: 5123683254132060857
+    second: $20240910_3f_villager03_6
+  - first:
+      213: -8127181754638199738
+    second: $20240910_3f_villager03_7
+  - first:
+      213: 591302478369934134
+    second: $20240910_3f_villager03_8
+  - first:
+      213: 6909104831694559728
+    second: $20240910_3f_villager03_9
+  - first:
+      213: 6007311041683220621
+    second: $20240910_3f_villager03_10
+  - first:
+      213: -5488344026410476837
+    second: $20240910_3f_villager03_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 297
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20895145517c26ba0800000000000000
+      internalID: -6097092051087288318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 301
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1bfb21c17d666a0800000000000000
+      internalID: -6456236500215418447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 297
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a97470a16e0da0800000000000000
+      internalID: -5976732313697277878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 203
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0165fbf29e92460800000000000000
+      internalID: 7217556269120753836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 203
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc315c9a178bbb0800000000000000
+      internalID: -4920057618932446373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 203
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885c522e2955ef4b0800000000000000
+      internalID: -5404788413450304120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 107
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2b820f5cafa1740800000000000000
+      internalID: 5123683254132060857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 107
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64411c9f043763f80800000000000000
+      internalID: -8127181754638199738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 107
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b4c02a87ab43800800000000000000
+      internalID: 591302478369934134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d6190d3212ef50800000000000000
+      internalID: 6909104831694559728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 15
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d886fc670914e5350800000000000000
+      internalID: 6007311041683220621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_villager03_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda9aacbf2c75d3b0800000000000000
+      internalID: -5488344026410476837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $20240910_3f_villager03_0: -6097092051087288318
+      $20240910_3f_villager03_1: -6456236500215418447
+      $20240910_3f_villager03_10: 6007311041683220621
+      $20240910_3f_villager03_11: -5488344026410476837
+      $20240910_3f_villager03_2: -5976732313697277878
+      $20240910_3f_villager03_3: 7217556269120753836
+      $20240910_3f_villager03_4: -4920057618932446373
+      $20240910_3f_villager03_5: -5404788413450304120
+      $20240910_3f_villager03_6: 5123683254132060857
+      $20240910_3f_villager03_7: -8127181754638199738
+      $20240910_3f_villager03_8: 591302478369934134
+      $20240910_3f_villager03_9: 6909104831694559728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

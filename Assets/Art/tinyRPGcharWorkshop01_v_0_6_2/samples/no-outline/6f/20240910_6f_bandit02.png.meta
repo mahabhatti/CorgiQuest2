@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: cca5b72b06c5c41d0b9616b7da07533d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8248082766954044439
+    second: 20240910_6f_bandit02_0
+  - first:
+      213: -9025473214341903829
+    second: 20240910_6f_bandit02_1
+  - first:
+      213: -2531485051585945896
+    second: 20240910_6f_bandit02_2
+  - first:
+      213: 1171290327688956106
+    second: 20240910_6f_bandit02_3
+  - first:
+      213: 616267065912650921
+    second: 20240910_6f_bandit02_4
+  - first:
+      213: 2931454791671430388
+    second: 20240910_6f_bandit02_5
+  - first:
+      213: 8279652185713903930
+    second: 20240910_6f_bandit02_6
+  - first:
+      213: 4426219610818650296
+    second: 20240910_6f_bandit02_7
+  - first:
+      213: 414541671547455973
+    second: 20240910_6f_bandit02_8
+  - first:
+      213: 2655092240720175456
+    second: 20240910_6f_bandit02_9
+  - first:
+      213: -874099061781274497
+    second: 20240910_6f_bandit02_10
+  - first:
+      213: -2147085213226051356
+    second: 20240910_6f_bandit02_11
+  - first:
+      213: 887226232244665501
+    second: 20240910_6f_bandit02_12
+  - first:
+      213: -6633579348690644326
+    second: 20240910_6f_bandit02_13
+  - first:
+      213: -929955005300055091
+    second: 20240910_6f_bandit02_14
+  - first:
+      213: -2055195957835415959
+    second: 20240910_6f_bandit02_15
+  - first:
+      213: -8730566098836110314
+    second: 20240910_6f_bandit02_16
+  - first:
+      213: 6765742815915631431
+    second: 20240910_6f_bandit02_17
+  - first:
+      213: 6686328431708973545
+    second: 20240910_6f_bandit02_18
+  - first:
+      213: -3023619377449424120
+    second: 20240910_6f_bandit02_19
+  - first:
+      213: -1180421414660205295
+    second: 20240910_6f_bandit02_20
+  - first:
+      213: -1035011127301399946
+    second: 20240910_6f_bandit02_21
+  - first:
+      213: 3419655704740586673
+    second: 20240910_6f_bandit02_22
+  - first:
+      213: 5406981456640122185
+    second: 20240910_6f_bandit02_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c115a8393177270800000000000000
+      internalID: 8248082766954044439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 147
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a09593ee31fb280800000000000000
+      internalID: -9025473214341903829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 148
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de120a02cb5edcd0800000000000000
+      internalID: -2531485051585945896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 150
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac840c6e852414010800000000000000
+      internalID: 1171290327688956106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 147
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acee7e91ab6d8800800000000000000
+      internalID: 616267065912650921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 148
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc31bcf99e9ea820800000000000000
+      internalID: 2931454791671430388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 101
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398341abcb37e270800000000000000
+      internalID: 8279652185713903930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 100
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a6b0f8471d6d30800000000000000
+      internalID: 4426219610818650296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 101
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9ce25347fb0c500800000000000000
+      internalID: 414541671547455973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 101
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061a50e5358c8d420800000000000000
+      internalID: 2655092240720175456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 100
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f706604d8839ed3f0800000000000000
+      internalID: -874099061781274497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 101
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8da23df550432e0800000000000000
+      internalID: -2147085213226051356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cf958be8f005c00800000000000000
+      internalID: 887226232244665501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 52
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925de38abac0f3a0800000000000000
+      internalID: -6633579348690644326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 53
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc36efb89d22813f0800000000000000
+      internalID: -929955005300055091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eb66d4a2a7a73e0800000000000000
+      internalID: -2055195957835415959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 52
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6144eceb36cc6d680800000000000000
+      internalID: -8730566098836110314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 53
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7436d40ae3fb4ed50800000000000000
+      internalID: 6765742815915631431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ab9f684c9acc50800000000000000
+      internalID: 6686328431708973545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ba32f2232f906d0800000000000000
+      internalID: -3023619377449424120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1151aed3afc4e9fe0800000000000000
+      internalID: -1180421414660205295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a9f9a0dd6e2a1f0800000000000000
+      internalID: -1035011127301399946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4633fcebe057f20800000000000000
+      internalID: 3419655704740586673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_bandit02_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 5
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d9826ccf4790b40800000000000000
+      internalID: 5406981456640122185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240910_6f_bandit02_0: 8248082766954044439
+      20240910_6f_bandit02_1: -9025473214341903829
+      20240910_6f_bandit02_10: -874099061781274497
+      20240910_6f_bandit02_11: -2147085213226051356
+      20240910_6f_bandit02_12: 887226232244665501
+      20240910_6f_bandit02_13: -6633579348690644326
+      20240910_6f_bandit02_14: -929955005300055091
+      20240910_6f_bandit02_15: -2055195957835415959
+      20240910_6f_bandit02_16: -8730566098836110314
+      20240910_6f_bandit02_17: 6765742815915631431
+      20240910_6f_bandit02_18: 6686328431708973545
+      20240910_6f_bandit02_19: -3023619377449424120
+      20240910_6f_bandit02_2: -2531485051585945896
+      20240910_6f_bandit02_20: -1180421414660205295
+      20240910_6f_bandit02_21: -1035011127301399946
+      20240910_6f_bandit02_22: 3419655704740586673
+      20240910_6f_bandit02_23: 5406981456640122185
+      20240910_6f_bandit02_3: 1171290327688956106
+      20240910_6f_bandit02_4: 616267065912650921
+      20240910_6f_bandit02_5: 2931454791671430388
+      20240910_6f_bandit02_6: 8279652185713903930
+      20240910_6f_bandit02_7: 4426219610818650296
+      20240910_6f_bandit02_8: 414541671547455973
+      20240910_6f_bandit02_9: 2655092240720175456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

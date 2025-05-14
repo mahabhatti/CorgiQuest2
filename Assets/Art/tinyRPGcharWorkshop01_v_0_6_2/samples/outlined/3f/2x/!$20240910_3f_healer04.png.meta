@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 123cf0bd7b7904203b5c787032701b78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6920155978615971903
+    second: '!$20240910_3f_healer04_0'
+  - first:
+      213: -6750736797149244206
+    second: '!$20240910_3f_healer04_1'
+  - first:
+      213: -1208349388338676105
+    second: '!$20240910_3f_healer04_2'
+  - first:
+      213: 6978841167371844717
+    second: '!$20240910_3f_healer04_3'
+  - first:
+      213: -4814607381473979352
+    second: '!$20240910_3f_healer04_4'
+  - first:
+      213: -6759811699186306062
+    second: '!$20240910_3f_healer04_5'
+  - first:
+      213: 7825034002633369339
+    second: '!$20240910_3f_healer04_6'
+  - first:
+      213: 946418368418433553
+    second: '!$20240910_3f_healer04_7'
+  - first:
+      213: 2580929623380712419
+    second: '!$20240910_3f_healer04_8'
+  - first:
+      213: -5137953956163033753
+    second: '!$20240910_3f_healer04_9'
+  - first:
+      213: 1376343830978380
+    second: '!$20240910_3f_healer04_10'
+  - first:
+      213: -981798376809599818
+    second: '!$20240910_3f_healer04_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_0'
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 295
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3063bfa235590060800000000000000
+      internalID: 6920155978615971903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_1'
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 299
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4d2c166a09052a0800000000000000
+      internalID: -6750736797149244206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_2'
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 295
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e338722a41b3fe0800000000000000
+      internalID: -1208349388338676105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_3'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 201
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3215f013d9d060800000000000000
+      internalID: 6978841167371844717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_4'
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 201
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824154e68141f2db0800000000000000
+      internalID: -4814607381473979352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_5'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 201
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3787913135032a0800000000000000
+      internalID: -6759811699186306062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_6'
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 105
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6a05277fa189c60800000000000000
+      internalID: 7825034002633369339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_7'
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 105
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a4c72ed7a522d00800000000000000
+      internalID: 946418368418433553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_8'
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 105
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebd3ef61dd41d320800000000000000
+      internalID: 2580929623380712419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_9'
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e692591252b8b0800000000000000
+      internalID: -5137953956163033753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_10'
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f522507c3e40000800000000000000
+      internalID: 1376343830978380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_healer04_11'
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc653df393ff52f0800000000000000
+      internalID: -981798376809599818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$20240910_3f_healer04_0': 6920155978615971903
+      '!$20240910_3f_healer04_1': -6750736797149244206
+      '!$20240910_3f_healer04_10': 1376343830978380
+      '!$20240910_3f_healer04_11': -981798376809599818
+      '!$20240910_3f_healer04_2': -1208349388338676105
+      '!$20240910_3f_healer04_3': 6978841167371844717
+      '!$20240910_3f_healer04_4': -4814607381473979352
+      '!$20240910_3f_healer04_5': -6759811699186306062
+      '!$20240910_3f_healer04_6': 7825034002633369339
+      '!$20240910_3f_healer04_7': 946418368418433553
+      '!$20240910_3f_healer04_8': 2580929623380712419
+      '!$20240910_3f_healer04_9': -5137953956163033753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

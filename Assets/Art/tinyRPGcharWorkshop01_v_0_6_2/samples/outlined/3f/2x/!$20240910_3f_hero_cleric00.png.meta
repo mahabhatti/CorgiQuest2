@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 317b228da0fd74d479ae78dd0d087532
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5706753110921054725
+    second: '!$20240910_3f_hero_cleric00_0'
+  - first:
+      213: -8724906066810979861
+    second: '!$20240910_3f_hero_cleric00_1'
+  - first:
+      213: 8604472066627973026
+    second: '!$20240910_3f_hero_cleric00_2'
+  - first:
+      213: 3263980472576410426
+    second: '!$20240910_3f_hero_cleric00_3'
+  - first:
+      213: 2208203634267978716
+    second: '!$20240910_3f_hero_cleric00_4'
+  - first:
+      213: -40115688574606107
+    second: '!$20240910_3f_hero_cleric00_5'
+  - first:
+      213: 3782727073765842981
+    second: '!$20240910_3f_hero_cleric00_6'
+  - first:
+      213: 6660965906084060000
+    second: '!$20240910_3f_hero_cleric00_7'
+  - first:
+      213: 5151510935537754466
+    second: '!$20240910_3f_hero_cleric00_8'
+  - first:
+      213: -619060006185088900
+    second: '!$20240910_3f_hero_cleric00_9'
+  - first:
+      213: 3574346446377770684
+    second: '!$20240910_3f_hero_cleric00_10'
+  - first:
+      213: -6690078313745092082
+    second: '!$20240910_3f_hero_cleric00_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_0'
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 295
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5f1b2084a8dc0b0800000000000000
+      internalID: -5706753110921054725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_1'
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 299
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9b415a828eae680800000000000000
+      internalID: -8724906066810979861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_2'
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 295
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afa12391c9396770800000000000000
+      internalID: 8604472066627973026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_3'
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 201
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a338abd42fcfb4d20800000000000000
+      internalID: 3263980472576410426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_4'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 201
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf44c718d15ae10800000000000000
+      internalID: 2208203634267978716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_5'
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 201
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e427986efa717ff0800000000000000
+      internalID: -40115688574606107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_6'
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 105
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e01a5b32fe7430800000000000000
+      internalID: 3782727073765842981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_7'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 105
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bd0254331807c50800000000000000
+      internalID: 6660965906084060000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_8'
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 105
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261a449e6e7dd7740800000000000000
+      internalID: 5151510935537754466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_9'
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 9
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78cfac4438a867f0800000000000000
+      internalID: -619060006185088900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_10'
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 13
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed680c721aa9130800000000000000
+      internalID: 3574346446377770684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$20240910_3f_hero_cleric00_11'
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 9
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02fdad18311823a0800000000000000
+      internalID: -6690078313745092082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$20240910_3f_hero_cleric00_0': -5706753110921054725
+      '!$20240910_3f_hero_cleric00_1': -8724906066810979861
+      '!$20240910_3f_hero_cleric00_10': 3574346446377770684
+      '!$20240910_3f_hero_cleric00_11': -6690078313745092082
+      '!$20240910_3f_hero_cleric00_2': 8604472066627973026
+      '!$20240910_3f_hero_cleric00_3': 3263980472576410426
+      '!$20240910_3f_hero_cleric00_4': 2208203634267978716
+      '!$20240910_3f_hero_cleric00_5': -40115688574606107
+      '!$20240910_3f_hero_cleric00_6': 3782727073765842981
+      '!$20240910_3f_hero_cleric00_7': 6660965906084060000
+      '!$20240910_3f_hero_cleric00_8': 5151510935537754466
+      '!$20240910_3f_hero_cleric00_9': -619060006185088900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

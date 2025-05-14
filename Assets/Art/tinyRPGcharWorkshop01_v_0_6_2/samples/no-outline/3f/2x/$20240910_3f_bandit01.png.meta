@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 0e410f049f43f47aa802490c9eb08b57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3419328993876538532
+    second: $20240910_3f_bandit01_0
+  - first:
+      213: 6265300751667656749
+    second: $20240910_3f_bandit01_1
+  - first:
+      213: -3422941403222877252
+    second: $20240910_3f_bandit01_2
+  - first:
+      213: 9075288160442400190
+    second: $20240910_3f_bandit01_3
+  - first:
+      213: 5358685640918870171
+    second: $20240910_3f_bandit01_4
+  - first:
+      213: 5509583439844472910
+    second: $20240910_3f_bandit01_5
+  - first:
+      213: 6645205753195570756
+    second: $20240910_3f_bandit01_6
+  - first:
+      213: 6603038259751667582
+    second: $20240910_3f_bandit01_7
+  - first:
+      213: 1213428921691854051
+    second: $20240910_3f_bandit01_8
+  - first:
+      213: -8638241182433817920
+    second: $20240910_3f_bandit01_9
+  - first:
+      213: 9016696951670551710
+    second: $20240910_3f_bandit01_10
+  - first:
+      213: 5559820638116558110
+    second: $20240910_3f_bandit01_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 297
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b8bcd756a1c80d0800000000000000
+      internalID: -3419328993876538532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 301
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d287322b6d1d2f650800000000000000
+      internalID: 6265300751667656749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 297
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb5ce5ede44f70d0800000000000000
+      internalID: -3422941403222877252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 203
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3a7dbf76e1fd70800000000000000
+      internalID: 9075288160442400190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 203
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a4f9e230ed5a40800000000000000
+      internalID: 5358685640918870171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 203
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48fd4092f8f57c40800000000000000
+      internalID: 5509583439844472910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 107
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446aa9abc63883c50800000000000000
+      internalID: 6645205753195570756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 107
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77cfc61054b2ab50800000000000000
+      internalID: 6603038259751667582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 107
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4d0addc27f6d010800000000000000
+      internalID: 1213428921691854051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cac1e4796dce1880800000000000000
+      internalID: -8638241182433817920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 15
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94bba3ea1eb12d70800000000000000
+      internalID: 9016696951670551710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_bandit01_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 11
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b2d5c963782d40800000000000000
+      internalID: 5559820638116558110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $20240910_3f_bandit01_0: -3419328993876538532
+      $20240910_3f_bandit01_1: 6265300751667656749
+      $20240910_3f_bandit01_10: 9016696951670551710
+      $20240910_3f_bandit01_11: 5559820638116558110
+      $20240910_3f_bandit01_2: -3422941403222877252
+      $20240910_3f_bandit01_3: 9075288160442400190
+      $20240910_3f_bandit01_4: 5358685640918870171
+      $20240910_3f_bandit01_5: 5509583439844472910
+      $20240910_3f_bandit01_6: 6645205753195570756
+      $20240910_3f_bandit01_7: 6603038259751667582
+      $20240910_3f_bandit01_8: 1213428921691854051
+      $20240910_3f_bandit01_9: -8638241182433817920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

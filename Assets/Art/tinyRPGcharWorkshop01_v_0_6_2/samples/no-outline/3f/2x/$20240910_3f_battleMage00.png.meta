@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: da9e91f8396ad435ba2968d3985a9ee7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8433988199031240473
+    second: $20240910_3f_battleMage00_0
+  - first:
+      213: -2973561497636401328
+    second: $20240910_3f_battleMage00_1
+  - first:
+      213: 8771487665203617888
+    second: $20240910_3f_battleMage00_2
+  - first:
+      213: 4739972786536900887
+    second: $20240910_3f_battleMage00_3
+  - first:
+      213: -4201092561488528569
+    second: $20240910_3f_battleMage00_4
+  - first:
+      213: 4903600741016471636
+    second: $20240910_3f_battleMage00_5
+  - first:
+      213: 7577489291305020369
+    second: $20240910_3f_battleMage00_6
+  - first:
+      213: -2476115935777213533
+    second: $20240910_3f_battleMage00_7
+  - first:
+      213: 3747832104185836026
+    second: $20240910_3f_battleMage00_8
+  - first:
+      213: 3932950776540824026
+    second: $20240910_3f_battleMage00_9
+  - first:
+      213: -7062586582091968643
+    second: $20240910_3f_battleMage00_10
+  - first:
+      213: 7083012890789830370
+    second: $20240910_3f_battleMage00_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 297
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917f713f49b8b0570800000000000000
+      internalID: 8433988199031240473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 301
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f8a9f8299cbb6d0800000000000000
+      internalID: -2973561497636401328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 297
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060ae24ee859ab970800000000000000
+      internalID: 8771487665203617888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 203
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ec8ac224c7c140800000000000000
+      internalID: 4739972786536900887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 203
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bb0fbd298b2b5c0800000000000000
+      internalID: -4201092561488528569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 203
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45801a0c4e61d0440800000000000000
+      internalID: 4903600741016471636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 107
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbef89fc56a82960800000000000000
+      internalID: 7577489291305020369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 107
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3b059eca113add0800000000000000
+      internalID: -2476115935777213533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 107
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af13dcf1179f20430800000000000000
+      internalID: 3747832104185836026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad100d2c4e5a49630800000000000000
+      internalID: 3932950776540824026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 15
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc7fa3ce6acfd90800000000000000
+      internalID: -7062586582091968643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $20240910_3f_battleMage00_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 11
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee5a0f52baeb4260800000000000000
+      internalID: 7083012890789830370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $20240910_3f_battleMage00_0: 8433988199031240473
+      $20240910_3f_battleMage00_1: -2973561497636401328
+      $20240910_3f_battleMage00_10: -7062586582091968643
+      $20240910_3f_battleMage00_11: 7083012890789830370
+      $20240910_3f_battleMage00_2: 8771487665203617888
+      $20240910_3f_battleMage00_3: 4739972786536900887
+      $20240910_3f_battleMage00_4: -4201092561488528569
+      $20240910_3f_battleMage00_5: 4903600741016471636
+      $20240910_3f_battleMage00_6: 7577489291305020369
+      $20240910_3f_battleMage00_7: -2476115935777213533
+      $20240910_3f_battleMage00_8: 3747832104185836026
+      $20240910_3f_battleMage00_9: 3932950776540824026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

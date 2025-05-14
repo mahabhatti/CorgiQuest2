@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 07b3595e37d4742e6b6be623261d1d5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4407629760227529208
+    second: 20240910_3f_hero_fighter00_0
+  - first:
+      213: 287260819804111790
+    second: 20240910_3f_hero_fighter00_1
+  - first:
+      213: -3048105410672727823
+    second: 20240910_3f_hero_fighter00_2
+  - first:
+      213: -3014358615097069375
+    second: 20240910_3f_hero_fighter00_3
+  - first:
+      213: 4687385500393574106
+    second: 20240910_3f_hero_fighter00_4
+  - first:
+      213: -6181706312964330888
+    second: 20240910_3f_hero_fighter00_5
+  - first:
+      213: 1767610397898562478
+    second: 20240910_3f_hero_fighter00_6
+  - first:
+      213: 4182939057150182792
+    second: 20240910_3f_hero_fighter00_7
+  - first:
+      213: 7520767471504599501
+    second: 20240910_3f_hero_fighter00_8
+  - first:
+      213: -347622730119981587
+    second: 20240910_3f_hero_fighter00_9
+  - first:
+      213: 7717502244107333411
+    second: 20240910_3f_hero_fighter00_10
+  - first:
+      213: 6421960968958951450
+    second: 20240910_3f_hero_fighter00_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 147
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f15dcf0aeb0b2d30800000000000000
+      internalID: 4407629760227529208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 149
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3cf42913e8cf300800000000000000
+      internalID: 287260819804111790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 147
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e7ee4744f2b5d0800000000000000
+      internalID: -3048105410672727823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c030817fc8da26d0800000000000000
+      internalID: -3014358615097069375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade864c1740fc0140800000000000000
+      internalID: 4687385500393574106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 100
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa8f54cda263aa0800000000000000
+      internalID: -6181706312964330888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 52
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd70caa40d78810800000000000000
+      internalID: 1767610397898562478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854b8a09e8cc0a30800000000000000
+      internalID: 4182939057150182792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 52
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc928592b222f5860800000000000000
+      internalID: 7520767471504599501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d85ff7fefc2bf0800000000000000
+      internalID: -347622730119981587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2c45e6631a1b60800000000000000
+      internalID: 7717502244107333411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_fighter00_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10c83ce9736f1950800000000000000
+      internalID: 6421960968958951450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240910_3f_hero_fighter00_0: 4407629760227529208
+      20240910_3f_hero_fighter00_1: 287260819804111790
+      20240910_3f_hero_fighter00_10: 7717502244107333411
+      20240910_3f_hero_fighter00_11: 6421960968958951450
+      20240910_3f_hero_fighter00_2: -3048105410672727823
+      20240910_3f_hero_fighter00_3: -3014358615097069375
+      20240910_3f_hero_fighter00_4: 4687385500393574106
+      20240910_3f_hero_fighter00_5: -6181706312964330888
+      20240910_3f_hero_fighter00_6: 1767610397898562478
+      20240910_3f_hero_fighter00_7: 4182939057150182792
+      20240910_3f_hero_fighter00_8: 7520767471504599501
+      20240910_3f_hero_fighter00_9: -347622730119981587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

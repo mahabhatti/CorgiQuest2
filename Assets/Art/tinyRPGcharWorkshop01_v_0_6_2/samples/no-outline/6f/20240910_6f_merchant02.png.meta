@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 0bc8d76716a804a16b6f7ebb3343007d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9068569913491553643
+    second: 20240910_6f_merchant02_0
+  - first:
+      213: 4869577813427093823
+    second: 20240910_6f_merchant02_1
+  - first:
+      213: 4941040585688061553
+    second: 20240910_6f_merchant02_2
+  - first:
+      213: -2895442963718067349
+    second: 20240910_6f_merchant02_3
+  - first:
+      213: 1175161753974743191
+    second: 20240910_6f_merchant02_4
+  - first:
+      213: -4191930366040521455
+    second: 20240910_6f_merchant02_5
+  - first:
+      213: -3366194929234154703
+    second: 20240910_6f_merchant02_6
+  - first:
+      213: 3360487415168892896
+    second: 20240910_6f_merchant02_7
+  - first:
+      213: 2246606792895909184
+    second: 20240910_6f_merchant02_8
+  - first:
+      213: -2409149018596325334
+    second: 20240910_6f_merchant02_9
+  - first:
+      213: -6385369659174061919
+    second: 20240910_6f_merchant02_10
+  - first:
+      213: 5209904538417041399
+    second: 20240910_6f_merchant02_11
+  - first:
+      213: -5276201703858450090
+    second: 20240910_6f_merchant02_12
+  - first:
+      213: -4073524072199045816
+    second: 20240910_6f_merchant02_13
+  - first:
+      213: 8018405005263126553
+    second: 20240910_6f_merchant02_14
+  - first:
+      213: -4566428471455358977
+    second: 20240910_6f_merchant02_15
+  - first:
+      213: 4504440218148387485
+    second: 20240910_6f_merchant02_16
+  - first:
+      213: -2575725769681499802
+    second: 20240910_6f_merchant02_17
+  - first:
+      213: 5257224776670157365
+    second: 20240910_6f_merchant02_18
+  - first:
+      213: 2726733889250805818
+    second: 20240910_6f_merchant02_19
+  - first:
+      213: 357045754120612537
+    second: 20240910_6f_merchant02_20
+  - first:
+      213: 7653172407254042801
+    second: 20240910_6f_merchant02_21
+  - first:
+      213: 515133027455907372
+    second: 20240910_6f_merchant02_22
+  - first:
+      213: -4864248661254738395
+    second: 20240910_6f_merchant02_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 150
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d757af9480add70800000000000000
+      internalID: 9068569913491553643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 147
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31027f9837349340800000000000000
+      internalID: 4869577813427093823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 148
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17699b2eb3a129440800000000000000
+      internalID: 4941040585688061553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 150
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b2e2817f151d7d0800000000000000
+      internalID: -2895442963718067349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 147
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7902a4393630f4010800000000000000
+      internalID: 1175161753974743191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 148
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1154bf8ba8543d5c0800000000000000
+      internalID: -4191930366040521455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 101
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13be646fb8fd841d0800000000000000
+      internalID: -3366194929234154703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 100
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efff4ddf79d2ae20800000000000000
+      internalID: 3360487415168892896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 101
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4a80a9fc8d2f10800000000000000
+      internalID: 2246606792895909184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 101
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28c5975bbbf09ed0800000000000000
+      internalID: -2409149018596325334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 100
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a87f59402c9267a0800000000000000
+      internalID: -6385369659174061919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 101
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff0b0e039c4d4840800000000000000
+      internalID: 5209904538417041399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d43e318a27c6b0800000000000000
+      internalID: -5276201703858450090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 52
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db294507fe777c0800000000000000
+      internalID: -4073524072199045816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 53
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9104ce37ed8174f60800000000000000
+      internalID: 8018405005263126553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 55
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5caacf79c0a0c0800000000000000
+      internalID: -4566428471455358977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 52
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab7ba438cf28e30800000000000000
+      internalID: 4504440218148387485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 53
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669805b2f0f214cd0800000000000000
+      internalID: -2575725769681499802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9ec5941a65f840800000000000000
+      internalID: 5257224776670157365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3840d1860e47d520800000000000000
+      internalID: 2726733889250805818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baabeeb83b74f400800000000000000
+      internalID: 357045754120612537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c23391c7853a60800000000000000
+      internalID: 7653172407254042801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b49952ce162700800000000000000
+      internalID: 515133027455907372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_merchant02_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eedbe4d97be7cb0800000000000000
+      internalID: -4864248661254738395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240910_6f_merchant02_0: 9068569913491553643
+      20240910_6f_merchant02_1: 4869577813427093823
+      20240910_6f_merchant02_10: -6385369659174061919
+      20240910_6f_merchant02_11: 5209904538417041399
+      20240910_6f_merchant02_12: -5276201703858450090
+      20240910_6f_merchant02_13: -4073524072199045816
+      20240910_6f_merchant02_14: 8018405005263126553
+      20240910_6f_merchant02_15: -4566428471455358977
+      20240910_6f_merchant02_16: 4504440218148387485
+      20240910_6f_merchant02_17: -2575725769681499802
+      20240910_6f_merchant02_18: 5257224776670157365
+      20240910_6f_merchant02_19: 2726733889250805818
+      20240910_6f_merchant02_2: 4941040585688061553
+      20240910_6f_merchant02_20: 357045754120612537
+      20240910_6f_merchant02_21: 7653172407254042801
+      20240910_6f_merchant02_22: 515133027455907372
+      20240910_6f_merchant02_23: -4864248661254738395
+      20240910_6f_merchant02_3: -2895442963718067349
+      20240910_6f_merchant02_4: 1175161753974743191
+      20240910_6f_merchant02_5: -4191930366040521455
+      20240910_6f_merchant02_6: -3366194929234154703
+      20240910_6f_merchant02_7: 3360487415168892896
+      20240910_6f_merchant02_8: 2246606792895909184
+      20240910_6f_merchant02_9: -2409149018596325334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

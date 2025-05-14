@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: c182e566963ca4be1ade1bb964419a1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3231151794013714955
+    second: baobab-canopy_0
+  - first:
+      213: -8027381877925365465
+    second: baobab-canopy_1
+  - first:
+      213: 4605569801416505733
+    second: baobab-canopy_2
+  - first:
+      213: -2159326884273733349
+    second: baobab-canopy_3
+  - first:
+      213: -495490468217776456
+    second: baobab-canopy_4
+  - first:
+      213: 4734837606201451820
+    second: baobab-canopy_5
+  - first:
+      213: 4186300792142511316
+    second: baobab-canopy_6
+  - first:
+      213: -7458258175388067251
+    second: baobab-canopy_7
+  - first:
+      213: 1368071220527676788
+    second: baobab-canopy_8
+  - first:
+      213: 436773030450966027
+    second: baobab-canopy_9
+  - first:
+      213: 3228228696000627253
+    second: baobab-canopy_10
+  - first:
+      213: -2520846008451252924
+    second: baobab-canopy_11
+  - first:
+      213: -3277570628353465734
+    second: baobab-canopy_12
+  - first:
+      213: 4182324911413355998
+    second: baobab-canopy_13
+  - first:
+      213: -3421705357989959251
+    second: baobab-canopy_14
+  - first:
+      213: 45292078567257761
+    second: baobab-canopy_15
+  - first:
+      213: -2249979232991536481
+    second: baobab-canopy_16
+  - first:
+      213: -7775745151850267098
+    second: baobab-canopy_17
+  - first:
+      213: 6990806266679516900
+    second: baobab-canopy_18
+  - first:
+      213: 5570614384301010155
+    second: baobab-canopy_19
+  - first:
+      213: 5226267412888387281
+    second: baobab-canopy_20
+  - first:
+      213: -5720325417801064686
+    second: baobab-canopy_21
+  - first:
+      213: 944837851546243472
+    second: baobab-canopy_22
+  - first:
+      213: 7536721377167050728
+    second: baobab-canopy_23
+  - first:
+      213: 2828248398738155895
+    second: baobab-canopy_24
+  - first:
+      213: 2922501171399862855
+    second: baobab-canopy_25
+  - first:
+      213: 6026273429019017390
+    second: baobab-canopy_26
+  - first:
+      213: -4171150542942750237
+    second: baobab-canopy_27
+  - first:
+      213: -7911561581668458431
+    second: baobab-canopy_28
+  - first:
+      213: -8830557345820249231
+    second: baobab-canopy_29
+  - first:
+      213: 3209729315061286459
+    second: baobab-canopy_30
+  - first:
+      213: -1063405212365166381
+    second: baobab-canopy_31
+  - first:
+      213: 7041438286033512051
+    second: baobab-canopy_32
+  - first:
+      213: -5720490751773490344
+    second: baobab-canopy_33
+  - first:
+      213: 7151638923281653316
+    second: baobab-canopy_34
+  - first:
+      213: -1949760185128440777
+    second: baobab-canopy_35
+  - first:
+      213: 7743850014500153796
+    second: baobab-canopy_36
+  - first:
+      213: 4086513215347294542
+    second: baobab-canopy_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baobab-canopy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0abd81ff6b57dc20800000000000000
+      internalID: 3231151794013714955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 354
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729b9d186b2099090800000000000000
+      internalID: -8027381877925365465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 343
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58972b145554aef30800000000000000
+      internalID: 4605569801416505733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 316
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11c9eca3a78802e0800000000000000
+      internalID: -2159326884273733349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 298
+        width: 146
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6994c5b0aaf19f0800000000000000
+      internalID: -495490468217776456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 299
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c256cc277b585b140800000000000000
+      internalID: 4734837606201451820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3796f36ab81a30800000000000000
+      internalID: 4186300792142511316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 178
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a57dc74b1fe7890800000000000000
+      internalID: -7458258175388067251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 194
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dbcf6d68d5cf210800000000000000
+      internalID: 1368071220527676788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 196
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e208fc1cabf0600800000000000000
+      internalID: 436773030450966027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 209
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53207d625e8fccc20800000000000000
+      internalID: 3228228696000627253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 211
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d3dcc49e7240dd0800000000000000
+      internalID: -2520846008451252924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 193
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ecbaf0eab382d0800000000000000
+      internalID: -3277570628353465734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 213
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56f08195a9a0a30800000000000000
+      internalID: 4182324911413355998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 210
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da925fa1b19a380d0800000000000000
+      internalID: -3421705357989959251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 202
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6f32ec7e8e0a000800000000000000
+      internalID: 45292078567257761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 198
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9889fec776c0e0800000000000000
+      internalID: -2249979232991536481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 202
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ebff76bf0071490800000000000000
+      internalID: -7775745151850267098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 189
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed10bb245540160800000000000000
+      internalID: 6990806266679516900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 199
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec61f4a44cce4d40800000000000000
+      internalID: 5570614384301010155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 200
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de7966a58e678840800000000000000
+      internalID: 5226267412888387281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 196
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f545017525d90b0800000000000000
+      internalID: -5720325417801064686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 184
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d1cf150dbc1d00800000000000000
+      internalID: 944837851546243472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 190
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e782294920d79860800000000000000
+      internalID: 7536721377167050728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 179
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779ea571fe4ff3720800000000000000
+      internalID: 2828248398738155895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 185
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aa3f0d45fce8820800000000000000
+      internalID: 2922501171399862855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 182
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0cd0051cf91a350800000000000000
+      internalID: 6026273429019017390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 187
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9383f4ea81d16c0800000000000000
+      internalID: -4171150542942750237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 171
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1402602a8ac743290800000000000000
+      internalID: -7911561581668458431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 173
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173faa951ee837580800000000000000
+      internalID: -8830557345820249231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 169
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36c2616ecf3b8c20800000000000000
+      internalID: 3209729315061286459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 177
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8eca0f7960e31f0800000000000000
+      internalID: -1063405212365166381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ecd260d638b160800000000000000
+      internalID: 7041438286033512051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 160
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85342af38fbbc90b0800000000000000
+      internalID: -5720490751773490344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 165
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e5f00b5b9bf3360800000000000000
+      internalID: 7151638923281653316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 149
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c2830217f01f4e0800000000000000
+      internalID: -1949760185128440777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 150
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c96f2c3f8ea77b60800000000000000
+      internalID: 7743850014500153796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baobab-canopy_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4107ba3e1636b830800000000000000
+      internalID: 4086513215347294542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      baobab-canopy_0: 3231151794013714955
+      baobab-canopy_1: -8027381877925365465
+      baobab-canopy_10: 3228228696000627253
+      baobab-canopy_11: -2520846008451252924
+      baobab-canopy_12: -3277570628353465734
+      baobab-canopy_13: 4182324911413355998
+      baobab-canopy_14: -3421705357989959251
+      baobab-canopy_15: 45292078567257761
+      baobab-canopy_16: -2249979232991536481
+      baobab-canopy_17: -7775745151850267098
+      baobab-canopy_18: 6990806266679516900
+      baobab-canopy_19: 5570614384301010155
+      baobab-canopy_2: 4605569801416505733
+      baobab-canopy_20: 5226267412888387281
+      baobab-canopy_21: -5720325417801064686
+      baobab-canopy_22: 944837851546243472
+      baobab-canopy_23: 7536721377167050728
+      baobab-canopy_24: 2828248398738155895
+      baobab-canopy_25: 2922501171399862855
+      baobab-canopy_26: 6026273429019017390
+      baobab-canopy_27: -4171150542942750237
+      baobab-canopy_28: -7911561581668458431
+      baobab-canopy_29: -8830557345820249231
+      baobab-canopy_3: -2159326884273733349
+      baobab-canopy_30: 3209729315061286459
+      baobab-canopy_31: -1063405212365166381
+      baobab-canopy_32: 7041438286033512051
+      baobab-canopy_33: -5720490751773490344
+      baobab-canopy_34: 7151638923281653316
+      baobab-canopy_35: -1949760185128440777
+      baobab-canopy_36: 7743850014500153796
+      baobab-canopy_37: 4086513215347294542
+      baobab-canopy_4: -495490468217776456
+      baobab-canopy_5: 4734837606201451820
+      baobab-canopy_6: 4186300792142511316
+      baobab-canopy_7: -7458258175388067251
+      baobab-canopy_8: 1368071220527676788
+      baobab-canopy_9: 436773030450966027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

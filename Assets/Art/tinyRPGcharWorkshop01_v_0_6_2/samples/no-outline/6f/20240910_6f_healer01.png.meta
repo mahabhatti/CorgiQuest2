@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 997cc06bfd6974b42ab1facd3963012c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5059936486240068436
+    second: 20240910_6f_healer01_0
+  - first:
+      213: -5981382212921974412
+    second: 20240910_6f_healer01_1
+  - first:
+      213: 1601987706371498604
+    second: 20240910_6f_healer01_2
+  - first:
+      213: 5268800420380755079
+    second: 20240910_6f_healer01_3
+  - first:
+      213: 8165916153879633189
+    second: 20240910_6f_healer01_4
+  - first:
+      213: 3116226916870607169
+    second: 20240910_6f_healer01_5
+  - first:
+      213: -7327906381188727471
+    second: 20240910_6f_healer01_6
+  - first:
+      213: 239060021604818819
+    second: 20240910_6f_healer01_7
+  - first:
+      213: 2634441198247318631
+    second: 20240910_6f_healer01_8
+  - first:
+      213: -8916270925968759742
+    second: 20240910_6f_healer01_9
+  - first:
+      213: -2101839729101969883
+    second: 20240910_6f_healer01_10
+  - first:
+      213: -801778708438143121
+    second: 20240910_6f_healer01_11
+  - first:
+      213: -49077091606612097
+    second: 20240910_6f_healer01_12
+  - first:
+      213: 310022043294527647
+    second: 20240910_6f_healer01_13
+  - first:
+      213: 8856862211156867258
+    second: 20240910_6f_healer01_14
+  - first:
+      213: 6314413983230446704
+    second: 20240910_6f_healer01_15
+  - first:
+      213: -7691678337309680188
+    second: 20240910_6f_healer01_16
+  - first:
+      213: 7637740930029209167
+    second: 20240910_6f_healer01_17
+  - first:
+      213: 3354117994968866411
+    second: 20240910_6f_healer01_18
+  - first:
+      213: 8178938858092970950
+    second: 20240910_6f_healer01_19
+  - first:
+      213: -3593679394463465479
+    second: 20240910_6f_healer01_20
+  - first:
+      213: 2700616482165004882
+    second: 20240910_6f_healer01_21
+  - first:
+      213: 5780356226088139767
+    second: 20240910_6f_healer01_22
+  - first:
+      213: -490783420296649526
+    second: 20240910_6f_healer01_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 150
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac5f9f039e77c9b0800000000000000
+      internalID: -5059936486240068436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 147
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47122fc619cddfca0800000000000000
+      internalID: -5981382212921974412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 148
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e0dcc4576b3610800000000000000
+      internalID: 1601987706371498604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 150
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844939211a8e1940800000000000000
+      internalID: 5268800420380755079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d9e912a79235170800000000000000
+      internalID: 8165916153879633189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 148
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1415593dedf0f3b20800000000000000
+      internalID: 3116226916870607169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d7de1a8fb0e4a90800000000000000
+      internalID: -7327906381188727471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 100
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f90c3b2df415300800000000000000
+      internalID: 239060021604818819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7649f2bdf4a6f8420800000000000000
+      internalID: 2634441198247318631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2442d7055da034480800000000000000
+      internalID: -8916270925968759742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 100
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e21407e3c4d2e0800000000000000
+      internalID: -2101839729101969883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 101
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fa21f33828fd4f0800000000000000
+      internalID: -801778708438143121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77bd2c25a4a15ff0800000000000000
+      internalID: -49077091606612097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 52
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f907c13e76b6d4400800000000000000
+      internalID: 310022043294527647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 53
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f5906145e9ea70800000000000000
+      internalID: 8856862211156867258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cc533001e41a750800000000000000
+      internalID: 6314413983230446704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 52
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd612fd4ba14590800000000000000
+      internalID: -7691678337309680188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 53
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f464adcc8e4bef960800000000000000
+      internalID: 7637740930029209167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e5dd8ab883c8e20800000000000000
+      internalID: 3354117994968866411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3454cbe8d618170800000000000000
+      internalID: 8178938858092970950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff3d5081afa02ec0800000000000000
+      internalID: -3593679394463465479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a920ec1648a7520800000000000000
+      internalID: 2700616482165004882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb733bac53f73050800000000000000
+      internalID: 5780356226088139767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_healer01_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4219b54136039f0800000000000000
+      internalID: -490783420296649526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240910_6f_healer01_0: -5059936486240068436
+      20240910_6f_healer01_1: -5981382212921974412
+      20240910_6f_healer01_10: -2101839729101969883
+      20240910_6f_healer01_11: -801778708438143121
+      20240910_6f_healer01_12: -49077091606612097
+      20240910_6f_healer01_13: 310022043294527647
+      20240910_6f_healer01_14: 8856862211156867258
+      20240910_6f_healer01_15: 6314413983230446704
+      20240910_6f_healer01_16: -7691678337309680188
+      20240910_6f_healer01_17: 7637740930029209167
+      20240910_6f_healer01_18: 3354117994968866411
+      20240910_6f_healer01_19: 8178938858092970950
+      20240910_6f_healer01_2: 1601987706371498604
+      20240910_6f_healer01_20: -3593679394463465479
+      20240910_6f_healer01_21: 2700616482165004882
+      20240910_6f_healer01_22: 5780356226088139767
+      20240910_6f_healer01_23: -490783420296649526
+      20240910_6f_healer01_3: 5268800420380755079
+      20240910_6f_healer01_4: 8165916153879633189
+      20240910_6f_healer01_5: 3116226916870607169
+      20240910_6f_healer01_6: -7327906381188727471
+      20240910_6f_healer01_7: 239060021604818819
+      20240910_6f_healer01_8: 2634441198247318631
+      20240910_6f_healer01_9: -8916270925968759742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

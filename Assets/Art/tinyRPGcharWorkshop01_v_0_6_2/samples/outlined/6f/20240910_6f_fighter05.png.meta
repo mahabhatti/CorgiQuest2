@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 54765ee2722c34bb8b18bd9763e980ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5915071999136542810
+    second: 20240910_6f_fighter05_0
+  - first:
+      213: -5548175425875965894
+    second: 20240910_6f_fighter05_1
+  - first:
+      213: -8873463287222284501
+    second: 20240910_6f_fighter05_2
+  - first:
+      213: -2997087354185233731
+    second: 20240910_6f_fighter05_3
+  - first:
+      213: 3987055289836156687
+    second: 20240910_6f_fighter05_4
+  - first:
+      213: 2080304192067131144
+    second: 20240910_6f_fighter05_5
+  - first:
+      213: -1462127321343093821
+    second: 20240910_6f_fighter05_6
+  - first:
+      213: 7736804261507841382
+    second: 20240910_6f_fighter05_7
+  - first:
+      213: -7088849587997239264
+    second: 20240910_6f_fighter05_8
+  - first:
+      213: -107271463827443939
+    second: 20240910_6f_fighter05_9
+  - first:
+      213: 4895333592087068487
+    second: 20240910_6f_fighter05_10
+  - first:
+      213: -3317311317256990641
+    second: 20240910_6f_fighter05_11
+  - first:
+      213: 4718297832577414613
+    second: 20240910_6f_fighter05_12
+  - first:
+      213: 505894789885190704
+    second: 20240910_6f_fighter05_13
+  - first:
+      213: -7986253326444001032
+    second: 20240910_6f_fighter05_14
+  - first:
+      213: 7978891643674901433
+    second: 20240910_6f_fighter05_15
+  - first:
+      213: -5552925022500460538
+    second: 20240910_6f_fighter05_16
+  - first:
+      213: -6510306614305746333
+    second: 20240910_6f_fighter05_17
+  - first:
+      213: -3584295900608241740
+    second: 20240910_6f_fighter05_18
+  - first:
+      213: 4515917155823641588
+    second: 20240910_6f_fighter05_19
+  - first:
+      213: -8383242889194743738
+    second: 20240910_6f_fighter05_20
+  - first:
+      213: 119992511027711214
+    second: 20240910_6f_fighter05_21
+  - first:
+      213: -7847501927215393367
+    second: 20240910_6f_fighter05_22
+  - first:
+      213: 6810619102688118083
+    second: 20240910_6f_fighter05_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 149
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af4b9e2b5179eda0800000000000000
+      internalID: -5915071999136542810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 146
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a388c1d78dbe003b0800000000000000
+      internalID: -5548175425875965894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 147
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f45a567202bd480800000000000000
+      internalID: -8873463287222284501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 149
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba49fc3ee43866d0800000000000000
+      internalID: -2997087354185233731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 146
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07b68a69add45730800000000000000
+      internalID: 3987055289836156687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 147
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807dae804a9bedc10800000000000000
+      internalID: 2080304192067131144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c393faa2fa75bbe0800000000000000
+      internalID: -1462127321343093821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 99
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d37e70c76ae5b60800000000000000
+      internalID: 7736804261507841382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 100
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281049abd85f9d90800000000000000
+      internalID: -7088849587997239264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 100
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f67080c25e28ef0800000000000000
+      internalID: -107271463827443939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 99
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ff26527f7bfe340800000000000000
+      internalID: 4895333592087068487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 100
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40938dceea86f1d0800000000000000
+      internalID: -3317311317256990641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 54
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b54f41e2ca7140800000000000000
+      internalID: 4718297832577414613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 51
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e3dc81ac450700800000000000000
+      internalID: 505894789885190704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 52
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8060f99e02b2190800000000000000
+      internalID: -7986253326444001032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 54
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb339a0da7babe60800000000000000
+      internalID: 7978891643674901433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 51
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6086b79dc1c00f2b0800000000000000
+      internalID: -5552925022500460538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 52
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3621e6b90aeb6a5a0800000000000000
+      internalID: -6510306614305746333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf5b5a6ed5024ec0800000000000000
+      internalID: -3584295900608241740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3e5f31ab2cbae30800000000000000
+      internalID: 4515917155823641588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6485ab3320db8ab80800000000000000
+      internalID: -8383242889194743738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec83839d8c4aa100800000000000000
+      internalID: 119992511027711214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a512263392181390800000000000000
+      internalID: -7847501927215393367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_6f_fighter05_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345073c5dfd248e50800000000000000
+      internalID: 6810619102688118083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240910_6f_fighter05_0: -5915071999136542810
+      20240910_6f_fighter05_1: -5548175425875965894
+      20240910_6f_fighter05_10: 4895333592087068487
+      20240910_6f_fighter05_11: -3317311317256990641
+      20240910_6f_fighter05_12: 4718297832577414613
+      20240910_6f_fighter05_13: 505894789885190704
+      20240910_6f_fighter05_14: -7986253326444001032
+      20240910_6f_fighter05_15: 7978891643674901433
+      20240910_6f_fighter05_16: -5552925022500460538
+      20240910_6f_fighter05_17: -6510306614305746333
+      20240910_6f_fighter05_18: -3584295900608241740
+      20240910_6f_fighter05_19: 4515917155823641588
+      20240910_6f_fighter05_2: -8873463287222284501
+      20240910_6f_fighter05_20: -8383242889194743738
+      20240910_6f_fighter05_21: 119992511027711214
+      20240910_6f_fighter05_22: -7847501927215393367
+      20240910_6f_fighter05_23: 6810619102688118083
+      20240910_6f_fighter05_3: -2997087354185233731
+      20240910_6f_fighter05_4: 3987055289836156687
+      20240910_6f_fighter05_5: 2080304192067131144
+      20240910_6f_fighter05_6: -1462127321343093821
+      20240910_6f_fighter05_7: 7736804261507841382
+      20240910_6f_fighter05_8: -7088849587997239264
+      20240910_6f_fighter05_9: -107271463827443939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

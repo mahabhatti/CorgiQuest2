@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 51de0ffd01bb443f0b7521d2538d4b69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6745397074909379389
+    second: 20240910_3f_hero_mage00_0
+  - first:
+      213: 4233602514885909617
+    second: 20240910_3f_hero_mage00_1
+  - first:
+      213: -3423436877174403415
+    second: 20240910_3f_hero_mage00_2
+  - first:
+      213: -6426350973892406885
+    second: 20240910_3f_hero_mage00_3
+  - first:
+      213: -3569146377863146683
+    second: 20240910_3f_hero_mage00_4
+  - first:
+      213: -2580309355672869572
+    second: 20240910_3f_hero_mage00_5
+  - first:
+      213: 7849694177083428693
+    second: 20240910_3f_hero_mage00_6
+  - first:
+      213: -2851811242312202445
+    second: 20240910_3f_hero_mage00_7
+  - first:
+      213: 6297736044350733718
+    second: 20240910_3f_hero_mage00_8
+  - first:
+      213: -3244460050169841351
+    second: 20240910_3f_hero_mage00_9
+  - first:
+      213: 1362785943194415082
+    second: 20240910_3f_hero_mage00_10
+  - first:
+      213: 5321111060104470174
+    second: 20240910_3f_hero_mage00_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 148
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4411959198362a0800000000000000
+      internalID: -6745397074909379389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c99f38e07c0ca30800000000000000
+      internalID: 4233602514885909617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 148
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae0c016c428d70d0800000000000000
+      internalID: -3423436877174403415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91582766d301d6a0800000000000000
+      internalID: -6426350973892406885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 101
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543581c8748d77ec0800000000000000
+      internalID: -3569146377863146683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c356084ef46e03cd0800000000000000
+      internalID: -2580309355672869572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 53
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f828cb347bfec60800000000000000
+      internalID: 7849694177083428693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 53
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337048fd8c45c68d0800000000000000
+      internalID: -2851811242312202445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 53
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69df2b4c09d066750800000000000000
+      internalID: 6297736044350733718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9393ea536cc59f2d0800000000000000
+      internalID: -3244460050169841351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefaff0589699e210800000000000000
+      internalID: 1362785943194415082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240910_3f_hero_mage00_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9edde3115268d940800000000000000
+      internalID: 5321111060104470174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240910_3f_hero_mage00_0: -6745397074909379389
+      20240910_3f_hero_mage00_1: 4233602514885909617
+      20240910_3f_hero_mage00_10: 1362785943194415082
+      20240910_3f_hero_mage00_11: 5321111060104470174
+      20240910_3f_hero_mage00_2: -3423436877174403415
+      20240910_3f_hero_mage00_3: -6426350973892406885
+      20240910_3f_hero_mage00_4: -3569146377863146683
+      20240910_3f_hero_mage00_5: -2580309355672869572
+      20240910_3f_hero_mage00_6: 7849694177083428693
+      20240910_3f_hero_mage00_7: -2851811242312202445
+      20240910_3f_hero_mage00_8: 6297736044350733718
+      20240910_3f_hero_mage00_9: -3244460050169841351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

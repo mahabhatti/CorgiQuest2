@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 2dd872ab522b5440a9a0f0e54d16ed50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6240141998119233755
+    second: a_rubrostipa_0
+  - first:
+      213: 7359238684731701264
+    second: a_rubrostipa_1
+  - first:
+      213: 2172909968495642636
+    second: a_rubrostipa_2
+  - first:
+      213: 4684058923298531416
+    second: a_rubrostipa_3
+  - first:
+      213: 8085561945820710696
+    second: a_rubrostipa_4
+  - first:
+      213: 7139927433909689102
+    second: a_rubrostipa_5
+  - first:
+      213: 2870391591107452707
+    second: a_rubrostipa_6
+  - first:
+      213: -8331935946298763712
+    second: a_rubrostipa_7
+  - first:
+      213: -4733079700630032441
+    second: a_rubrostipa_8
+  - first:
+      213: -2083577339016220112
+    second: a_rubrostipa_9
+  - first:
+      213: 7047628212494876568
+    second: a_rubrostipa_10
+  - first:
+      213: -4146334392003468852
+    second: a_rubrostipa_11
+  - first:
+      213: -2166540426344485390
+    second: a_rubrostipa_12
+  - first:
+      213: 939062665822946734
+    second: a_rubrostipa_13
+  - first:
+      213: -3467598387877535654
+    second: a_rubrostipa_14
+  - first:
+      213: -5612357617737295812
+    second: a_rubrostipa_15
+  - first:
+      213: -1515437515562249390
+    second: a_rubrostipa_16
+  - first:
+      213: 2717777042005347758
+    second: a_rubrostipa_17
+  - first:
+      213: 7350116323946988910
+    second: a_rubrostipa_18
+  - first:
+      213: 4046873628573808150
+    second: a_rubrostipa_19
+  - first:
+      213: -5234198906189771626
+    second: a_rubrostipa_20
+  - first:
+      213: -6369426701993024639
+    second: a_rubrostipa_21
+  - first:
+      213: -3227666855497516056
+    second: a_rubrostipa_22
+  - first:
+      213: 2837559264756690804
+    second: a_rubrostipa_23
+  - first:
+      213: -3673683473118526083
+    second: a_rubrostipa_24
+  - first:
+      213: 1913139511076426625
+    second: a_rubrostipa_25
+  - first:
+      213: 1914724537738453384
+    second: a_rubrostipa_26
+  - first:
+      213: 1912838597072634592
+    second: a_rubrostipa_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a_rubrostipa_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5275b161aef8669a0800000000000000
+      internalID: -6240141998119233755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 113
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018feb4c794412660800000000000000
+      internalID: 7359238684731701264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 115
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0886119a1ab72e10800000000000000
+      internalID: 2172909968495642636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 97
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858253606ce110140800000000000000
+      internalID: 4684058923298531416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 117
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274f0620cfa53070800000000000000
+      internalID: 8085561945820710696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 114
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bd0441c2e161360800000000000000
+      internalID: 7139927433909689102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 106
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f5a32b1fda5d720800000000000000
+      internalID: 2870391591107452707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046dd8db6640f5c80800000000000000
+      internalID: -8331935946298763712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 106
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfa556d619b05eb0800000000000000
+      internalID: -4733079700630032441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 93
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03272ed0375a513e0800000000000000
+      internalID: -2083577339016220112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 103
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f37c2f4843ec160800000000000000
+      internalID: 7047628212494876568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 104
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e5a4b6d24576c0800000000000000
+      internalID: -4146334392003468852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 100
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fda63806f6eee1e0800000000000000
+      internalID: -2166540426344485390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5453ae488380d00800000000000000
+      internalID: 939062665822946734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50a7da63ad90efc0800000000000000
+      internalID: -3467598387877535654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 83
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389f427b76ec12b0800000000000000
+      internalID: -5612357617737295812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 89
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2539c95db9518fae0800000000000000
+      internalID: -1515437515562249390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 86
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadc07ff1db77b520800000000000000
+      internalID: 2717777042005347758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 91
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6509a2aadbd00660800000000000000
+      internalID: 7350116323946988910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616b90abf12692830800000000000000
+      internalID: 4046873628573808150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 77
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c02d8a3d36c57b0800000000000000
+      internalID: -5234198906189771626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 73
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18361d449204b97a0800000000000000
+      internalID: -6369426701993024639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 81
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb4c888160533d0800000000000000
+      internalID: -3227666855497516056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fe0f40e19016720800000000000000
+      internalID: 2837559264756690804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750c8f5854740dc0800000000000000
+      internalID: -3673683473118526083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 69
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839973cf36dc8a10800000000000000
+      internalID: 1913139511076426625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881ef9a82d7729a10800000000000000
+      internalID: 1914724537738453384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a_rubrostipa_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2cb23c194cb8a10800000000000000
+      internalID: 1912838597072634592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      a_rubrostipa_0: -6240141998119233755
+      a_rubrostipa_1: 7359238684731701264
+      a_rubrostipa_10: 7047628212494876568
+      a_rubrostipa_11: -4146334392003468852
+      a_rubrostipa_12: -2166540426344485390
+      a_rubrostipa_13: 939062665822946734
+      a_rubrostipa_14: -3467598387877535654
+      a_rubrostipa_15: -5612357617737295812
+      a_rubrostipa_16: -1515437515562249390
+      a_rubrostipa_17: 2717777042005347758
+      a_rubrostipa_18: 7350116323946988910
+      a_rubrostipa_19: 4046873628573808150
+      a_rubrostipa_2: 2172909968495642636
+      a_rubrostipa_20: -5234198906189771626
+      a_rubrostipa_21: -6369426701993024639
+      a_rubrostipa_22: -3227666855497516056
+      a_rubrostipa_23: 2837559264756690804
+      a_rubrostipa_24: -3673683473118526083
+      a_rubrostipa_25: 1913139511076426625
+      a_rubrostipa_26: 1914724537738453384
+      a_rubrostipa_27: 1912838597072634592
+      a_rubrostipa_3: 4684058923298531416
+      a_rubrostipa_4: 8085561945820710696
+      a_rubrostipa_5: 7139927433909689102
+      a_rubrostipa_6: 2870391591107452707
+      a_rubrostipa_7: -8331935946298763712
+      a_rubrostipa_8: -4733079700630032441
+      a_rubrostipa_9: -2083577339016220112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 3d3d3cb162e01445a808d54a51683569
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7021994060630583076
+    second: 20240505nearbyVillage00Outdoors_0
+  - first:
+      213: -7625421289562379885
+    second: 20240505nearbyVillage00Outdoors_1
+  - first:
+      213: 6390177434674723538
+    second: 20240505nearbyVillage00Outdoors_2
+  - first:
+      213: -2065449229483145455
+    second: 20240505nearbyVillage00Outdoors_3
+  - first:
+      213: -1817444347846351596
+    second: 20240505nearbyVillage00Outdoors_4
+  - first:
+      213: -8785612025176089493
+    second: 20240505nearbyVillage00Outdoors_5
+  - first:
+      213: -3853381817820588974
+    second: 20240505nearbyVillage00Outdoors_6
+  - first:
+      213: 7266060426575838939
+    second: 20240505nearbyVillage00Outdoors_7
+  - first:
+      213: 2414429375469121126
+    second: 20240505nearbyVillage00Outdoors_8
+  - first:
+      213: 2027421827642011736
+    second: 20240505nearbyVillage00Outdoors_9
+  - first:
+      213: -4544311745028117871
+    second: 20240505nearbyVillage00Outdoors_10
+  - first:
+      213: -655950249965465144
+    second: 20240505nearbyVillage00Outdoors_11
+  - first:
+      213: 7297626207843200393
+    second: 20240505nearbyVillage00Outdoors_12
+  - first:
+      213: 7548175998277887637
+    second: 20240505nearbyVillage00Outdoors_13
+  - first:
+      213: -3537501999573395323
+    second: 20240505nearbyVillage00Outdoors_14
+  - first:
+      213: -3390677632037889304
+    second: 20240505nearbyVillage00Outdoors_15
+  - first:
+      213: 5976175239632698114
+    second: 20240505nearbyVillage00Outdoors_16
+  - first:
+      213: 3304545975581436364
+    second: 20240505nearbyVillage00Outdoors_17
+  - first:
+      213: -3382756066408650694
+    second: 20240505nearbyVillage00Outdoors_18
+  - first:
+      213: 6905009376549095896
+    second: 20240505nearbyVillage00Outdoors_19
+  - first:
+      213: -4690235386739122756
+    second: 20240505nearbyVillage00Outdoors_20
+  - first:
+      213: 694278740885622303
+    second: 20240505nearbyVillage00Outdoors_21
+  - first:
+      213: -1701128704311047408
+    second: 20240505nearbyVillage00Outdoors_22
+  - first:
+      213: -2998717368156826852
+    second: 20240505nearbyVillage00Outdoors_23
+  - first:
+      213: -6022528803746257376
+    second: 20240505nearbyVillage00Outdoors_24
+  - first:
+      213: -2036248348719382458
+    second: 20240505nearbyVillage00Outdoors_25
+  - first:
+      213: -1831265847399031045
+    second: 20240505nearbyVillage00Outdoors_26
+  - first:
+      213: -2334534868476323808
+    second: 20240505nearbyVillage00Outdoors_27
+  - first:
+      213: -5371512351648860357
+    second: 20240505nearbyVillage00Outdoors_28
+  - first:
+      213: -7279666340430967165
+    second: 20240505nearbyVillage00Outdoors_29
+  - first:
+      213: -4598698648857573607
+    second: 20240505nearbyVillage00Outdoors_30
+  - first:
+      213: 3049904545117628919
+    second: 20240505nearbyVillage00Outdoors_31
+  - first:
+      213: -3925255589616431981
+    second: 20240505nearbyVillage00Outdoors_32
+  - first:
+      213: -3213063419943728694
+    second: 20240505nearbyVillage00Outdoors_33
+  - first:
+      213: -6120829261757576757
+    second: 20240505nearbyVillage00Outdoors_34
+  - first:
+      213: 5609935571885150616
+    second: 20240505nearbyVillage00Outdoors_35
+  - first:
+      213: 1727752059364137048
+    second: 20240505nearbyVillage00Outdoors_36
+  - first:
+      213: 948685500302893888
+    second: 20240505nearbyVillage00Outdoors_37
+  - first:
+      213: 8178843240582455091
+    second: 20240505nearbyVillage00Outdoors_38
+  - first:
+      213: 8756453429701079528
+    second: 20240505nearbyVillage00Outdoors_39
+  - first:
+      213: 4103031240048402470
+    second: 20240505nearbyVillage00Outdoors_40
+  - first:
+      213: -6015905213838280486
+    second: 20240505nearbyVillage00Outdoors_41
+  - first:
+      213: 8827541813286322493
+    second: 20240505nearbyVillage00Outdoors_42
+  - first:
+      213: -3565982364001234771
+    second: 20240505nearbyVillage00Outdoors_43
+  - first:
+      213: -5884574561187543176
+    second: 20240505nearbyVillage00Outdoors_44
+  - first:
+      213: 5134956930600444940
+    second: 20240505nearbyVillage00Outdoors_45
+  - first:
+      213: -9076690234037296671
+    second: 20240505nearbyVillage00Outdoors_46
+  - first:
+      213: 8106280796709281379
+    second: 20240505nearbyVillage00Outdoors_47
+  - first:
+      213: -3348031815741036332
+    second: 20240505nearbyVillage00Outdoors_48
+  - first:
+      213: -2350423305346240971
+    second: 20240505nearbyVillage00Outdoors_49
+  - first:
+      213: 5491229263266570903
+    second: 20240505nearbyVillage00Outdoors_50
+  - first:
+      213: 6817696016652690310
+    second: 20240505nearbyVillage00Outdoors_51
+  - first:
+      213: 6090648794244830206
+    second: 20240505nearbyVillage00Outdoors_52
+  - first:
+      213: -4656469656933350876
+    second: 20240505nearbyVillage00Outdoors_53
+  - first:
+      213: 3321345772515738367
+    second: 20240505nearbyVillage00Outdoors_54
+  - first:
+      213: -1380176802549175066
+    second: 20240505nearbyVillage00Outdoors_55
+  - first:
+      213: -4495725352603314198
+    second: 20240505nearbyVillage00Outdoors_56
+  - first:
+      213: 9011181561665445244
+    second: 20240505nearbyVillage00Outdoors_57
+  - first:
+      213: 3799904098027598954
+    second: 20240505nearbyVillage00Outdoors_58
+  - first:
+      213: -5095201081017541262
+    second: 20240505nearbyVillage00Outdoors_59
+  - first:
+      213: 664575472663797652
+    second: 20240505nearbyVillage00Outdoors_60
+  - first:
+      213: 6584232125767684954
+    second: 20240505nearbyVillage00Outdoors_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 97
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd816312b9ddc8e90800000000000000
+      internalID: -7021994060630583076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 448
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399eee40dbf0d2690800000000000000
+      internalID: -7625421289562379885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 453
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daf08d25887ea850800000000000000
+      internalID: 6390177434674723538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 453
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1178d077edc0653e0800000000000000
+      internalID: -2065449229483145455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 495
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a39faef327c6e0800000000000000
+      internalID: -1817444347846351596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 489
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c9af8496c331680800000000000000
+      internalID: -8785612025176089493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 485
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254dadc17a9068ac0800000000000000
+      internalID: -3853381817820588974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 480
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde7392f57b36d460800000000000000
+      internalID: 7266060426575838939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 415
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eea1c89b6c18120800000000000000
+      internalID: 2414429375469121126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 451
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b9761969d22c10800000000000000
+      internalID: 2027421827642011736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 451
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa6f07b8c5fe0c0800000000000000
+      internalID: -4544311745028117871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 451
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1da7819b895e6f0800000000000000
+      internalID: -655950249965465144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d231e1f50664560800000000000000
+      internalID: 7297626207843200393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 453
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596ab77141280c860800000000000000
+      internalID: 7548175998277887637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58891338ca448eec0800000000000000
+      internalID: -3537501999573395323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ead48288a4e1f0d0800000000000000
+      internalID: -3390677632037889304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 96
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bbac1a7b3afe250800000000000000
+      internalID: 5976175239632698114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 326
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc96a7a7e0b1cdd20800000000000000
+      internalID: 3304545975581436364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 319
+        width: 28
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382aebb7490e01d0800000000000000
+      internalID: -3382756066408650694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 422
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d943f3917583df50800000000000000
+      internalID: 6905009376549095896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 415
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd927404cfe8eeb0800000000000000
+      internalID: -4690235386739122756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 421
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ec79d16d292a900800000000000000
+      internalID: 694278740885622303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 421
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bc156d4706468e0800000000000000
+      internalID: -1701128704311047408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 387
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13d739017a6266d0800000000000000
+      internalID: -2998717368156826852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 383
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026652336fdab6ca0800000000000000
+      internalID: -6022528803746257376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 321
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6400b145aeacdb3e0800000000000000
+      internalID: -2036248348719382458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 361
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfed97c0a690696e0800000000000000
+      internalID: -1831265847399031045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 351
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02894b0f7e01a9fd0800000000000000
+      internalID: -2334534868476323808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 319
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b855c9fd8475b0800000000000000
+      internalID: -5371512351648860357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e8e3f580e69fa90800000000000000
+      internalID: -7279666340430967165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 224
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91786cd91f32e20c0800000000000000
+      internalID: -4598698648857573607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 235
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e5925600735a20800000000000000
+      internalID: 3049904545117628919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 225
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ccb4096d0b689c0800000000000000
+      internalID: -3925255589616431981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 289
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c375d7d7e863d0800000000000000
+      internalID: -3213063419943728694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 257
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc98f1a47327e0ba0800000000000000
+      internalID: -6120829261757576757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891da0f0eae7add40800000000000000
+      internalID: 5609935571885150616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858595e08553af710800000000000000
+      internalID: 1727752059364137048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 257
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432e19af686a2d00800000000000000
+      internalID: 948685500302893888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 171
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f958c0896118170800000000000000
+      internalID: 8178843240582455091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 171
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e17599200c258970800000000000000
+      internalID: 8756453429701079528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 225
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206a6d8c25e0f830800000000000000
+      internalID: 4103031240048402470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 203
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8bfb6e416338ca0800000000000000
+      internalID: -6015905213838280486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_42
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31c6d4428ab18a70800000000000000
+      internalID: 8827541813286322493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 225
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0166eeee5138ec0800000000000000
+      internalID: -3565982364001234771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_44
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 225
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877cd1a4d9ac55ea0800000000000000
+      internalID: -5884574561187543176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04ae594f18034740800000000000000
+      internalID: 5134956930600444940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e123ff825e190280800000000000000
+      internalID: -9076690234037296671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_47
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e5d698f6b4f7070800000000000000
+      internalID: 8106280796709281379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 82
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ac0e5dc66981d0800000000000000
+      internalID: -3348031815741036332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ea905f47e916fd0800000000000000
+      internalID: -2350423305346240971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 107
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792eb31dbe3c43c40800000000000000
+      internalID: 5491229263266570903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_51
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 86
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ed2bc7625d9e50800000000000000
+      internalID: 6817696016652690310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3df980fc4568450800000000000000
+      internalID: 6090648794244830206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 124
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4224a1f9485e06fb0800000000000000
+      internalID: -4656469656933350876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 140
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2cb03026ac71e20800000000000000
+      internalID: 3321345772515738367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec62d4b280a8dce0800000000000000
+      internalID: -1380176802549175066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 108
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79c567c99fb91c0800000000000000
+      internalID: -4495725352603314198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 92
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5e9513e52e0d70800000000000000
+      internalID: 9011181561665445244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647c77f4a8fbb430800000000000000
+      internalID: 3799904098027598954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 88
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d53c2cc953a49b0800000000000000
+      internalID: -5095201081017541262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 39
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f109e0fdb093900800000000000000
+      internalID: 664575472663797652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240505nearbyVillage00Outdoors_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53191fcb34ef5b50800000000000000
+      internalID: 6584232125767684954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240505nearbyVillage00Outdoors_0: -7021994060630583076
+      20240505nearbyVillage00Outdoors_1: -7625421289562379885
+      20240505nearbyVillage00Outdoors_10: -4544311745028117871
+      20240505nearbyVillage00Outdoors_11: -655950249965465144
+      20240505nearbyVillage00Outdoors_12: 7297626207843200393
+      20240505nearbyVillage00Outdoors_13: 7548175998277887637
+      20240505nearbyVillage00Outdoors_14: -3537501999573395323
+      20240505nearbyVillage00Outdoors_15: -3390677632037889304
+      20240505nearbyVillage00Outdoors_16: 5976175239632698114
+      20240505nearbyVillage00Outdoors_17: 3304545975581436364
+      20240505nearbyVillage00Outdoors_18: -3382756066408650694
+      20240505nearbyVillage00Outdoors_19: 6905009376549095896
+      20240505nearbyVillage00Outdoors_2: 6390177434674723538
+      20240505nearbyVillage00Outdoors_20: -4690235386739122756
+      20240505nearbyVillage00Outdoors_21: 694278740885622303
+      20240505nearbyVillage00Outdoors_22: -1701128704311047408
+      20240505nearbyVillage00Outdoors_23: -2998717368156826852
+      20240505nearbyVillage00Outdoors_24: -6022528803746257376
+      20240505nearbyVillage00Outdoors_25: -2036248348719382458
+      20240505nearbyVillage00Outdoors_26: -1831265847399031045
+      20240505nearbyVillage00Outdoors_27: -2334534868476323808
+      20240505nearbyVillage00Outdoors_28: -5371512351648860357
+      20240505nearbyVillage00Outdoors_29: -7279666340430967165
+      20240505nearbyVillage00Outdoors_3: -2065449229483145455
+      20240505nearbyVillage00Outdoors_30: -4598698648857573607
+      20240505nearbyVillage00Outdoors_31: 3049904545117628919
+      20240505nearbyVillage00Outdoors_32: -3925255589616431981
+      20240505nearbyVillage00Outdoors_33: -3213063419943728694
+      20240505nearbyVillage00Outdoors_34: -6120829261757576757
+      20240505nearbyVillage00Outdoors_35: 5609935571885150616
+      20240505nearbyVillage00Outdoors_36: 1727752059364137048
+      20240505nearbyVillage00Outdoors_37: 948685500302893888
+      20240505nearbyVillage00Outdoors_38: 8178843240582455091
+      20240505nearbyVillage00Outdoors_39: 8756453429701079528
+      20240505nearbyVillage00Outdoors_4: -1817444347846351596
+      20240505nearbyVillage00Outdoors_40: 4103031240048402470
+      20240505nearbyVillage00Outdoors_41: -6015905213838280486
+      20240505nearbyVillage00Outdoors_42: 8827541813286322493
+      20240505nearbyVillage00Outdoors_43: -3565982364001234771
+      20240505nearbyVillage00Outdoors_44: -5884574561187543176
+      20240505nearbyVillage00Outdoors_45: 5134956930600444940
+      20240505nearbyVillage00Outdoors_46: -9076690234037296671
+      20240505nearbyVillage00Outdoors_47: 8106280796709281379
+      20240505nearbyVillage00Outdoors_48: -3348031815741036332
+      20240505nearbyVillage00Outdoors_49: -2350423305346240971
+      20240505nearbyVillage00Outdoors_5: -8785612025176089493
+      20240505nearbyVillage00Outdoors_50: 5491229263266570903
+      20240505nearbyVillage00Outdoors_51: 6817696016652690310
+      20240505nearbyVillage00Outdoors_52: 6090648794244830206
+      20240505nearbyVillage00Outdoors_53: -4656469656933350876
+      20240505nearbyVillage00Outdoors_54: 3321345772515738367
+      20240505nearbyVillage00Outdoors_55: -1380176802549175066
+      20240505nearbyVillage00Outdoors_56: -4495725352603314198
+      20240505nearbyVillage00Outdoors_57: 9011181561665445244
+      20240505nearbyVillage00Outdoors_58: 3799904098027598954
+      20240505nearbyVillage00Outdoors_59: -5095201081017541262
+      20240505nearbyVillage00Outdoors_6: -3853381817820588974
+      20240505nearbyVillage00Outdoors_60: 664575472663797652
+      20240505nearbyVillage00Outdoors_61: 6584232125767684954
+      20240505nearbyVillage00Outdoors_7: 7266060426575838939
+      20240505nearbyVillage00Outdoors_8: 2414429375469121126
+      20240505nearbyVillage00Outdoors_9: 2027421827642011736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
