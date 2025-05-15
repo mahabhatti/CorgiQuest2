@@ -9,6 +9,10 @@ public class PlayerController : MonoBehaviour
     public LayerMask solidObjectsLayer;
     public LayerMask validGroundLayer;
     
+    public int maxHealth = 100;
+    public int currentHealth;
+    public int defense = 2; // example base defense
+    
     private bool isMoving;
     private Vector2 input;
     
@@ -82,6 +86,20 @@ public class PlayerController : MonoBehaviour
             StopCoroutine(moveCoroutine);
             moveCoroutine = null;
             isMoving = false;
+        }
+    }
+
+    public void TakeDamage(int amount)
+    {
+        currentHealth -= amount;
+        currentHealth = Mathf.Max(currentHealth, 0);
+        Debug.Log($"Sandie took {amount} damage. Current HP: {currentHealth}");
+
+        if (currentHealth <= 0)
+        {
+            Debug.Log("Sandie has been defeated.");
+            // add trigger loss screen, then respawn at campfire
+            // GameController.Instance.GameOver();
         }
     }
 }
