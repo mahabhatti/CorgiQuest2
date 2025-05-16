@@ -9,8 +9,8 @@ public class PlayerController : MonoBehaviour
     public LayerMask solidObjectsLayer;
     public LayerMask validGroundLayer;
     
-    public int maxHealth = 100;
-    public int currentHealth;
+    // public int maxHealth = 100;
+    public int currentHealth = 100;
     public int defense = 2; // example base defense
     
     private bool isMoving;
