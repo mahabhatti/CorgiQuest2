@@ -325,7 +325,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -339,7 +339,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -363,7 +363,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -391,10 +391,10 @@ TextureImporter:
       name: corgi-assetnotail_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 470
-        width: 13
-        height: 20
+        x: 14
+        y: 471
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +413,10 @@ TextureImporter:
       name: corgi-assetnotail_1
       rect:
         serializedVersion: 2
-        x: 29
-        y: 470
-        width: 17
-        height: 20
+        x: 30
+        y: 471
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +435,10 @@ TextureImporter:
       name: corgi-assetnotail_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 470
-        width: 22
-        height: 20
+        x: 48
+        y: 471
+        width: 20
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: corgi-assetnotail_3
       rect:
         serializedVersion: 2
-        x: 71
-        y: 470
-        width: 15
-        height: 20
+        x: 72
+        y: 471
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: corgi-assetnotail_4
       rect:
         serializedVersion: 2
-        x: 111
-        y: 463
-        width: 34
-        height: 30
+        x: 112
+        y: 464
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +501,10 @@ TextureImporter:
       name: corgi-assetnotail_5
       rect:
         serializedVersion: 2
-        x: 175
-        y: 463
-        width: 34
-        height: 28
+        x: 176
+        y: 464
+        width: 32
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,10 +523,10 @@ TextureImporter:
       name: corgi-assetnotail_6
       rect:
         serializedVersion: 2
-        x: 240
-        y: 464
-        width: 35
-        height: 29
+        x: 241
+        y: 465
+        width: 33
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,10 +545,10 @@ TextureImporter:
       name: corgi-assetnotail_7
       rect:
         serializedVersion: 2
-        x: 303
-        y: 467
-        width: 39
-        height: 27
+        x: 304
+        y: 468
+        width: 37
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: corgi-assetnotail_8
       rect:
         serializedVersion: 2
-        x: 370
-        y: 470
-        width: 40
-        height: 25
+        x: 371
+        y: 471
+        width: 38
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,10 +589,10 @@ TextureImporter:
       name: corgi-assetnotail_9
       rect:
         serializedVersion: 2
-        x: 435
-        y: 470
-        width: 40
-        height: 25
+        x: 436
+        y: 471
+        width: 38
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +611,10 @@ TextureImporter:
       name: corgi-assetnotail_10
       rect:
         serializedVersion: 2
-        x: 500
-        y: 470
-        width: 40
-        height: 25
+        x: 501
+        y: 471
+        width: 38
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +633,10 @@ TextureImporter:
       name: corgi-assetnotail_11
       rect:
         serializedVersion: 2
-        x: 565
-        y: 470
-        width: 40
-        height: 25
+        x: 566
+        y: 471
+        width: 38
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,10 +655,10 @@ TextureImporter:
       name: corgi-assetnotail_12
       rect:
         serializedVersion: 2
-        x: 630
-        y: 464
-        width: 39
-        height: 27
+        x: 631
+        y: 465
+        width: 37
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +677,10 @@ TextureImporter:
       name: corgi-assetnotail_13
       rect:
         serializedVersion: 2
-        x: 697
-        y: 463
-        width: 37
-        height: 24
+        x: 698
+        y: 464
+        width: 35
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +699,10 @@ TextureImporter:
       name: corgi-assetnotail_14
       rect:
         serializedVersion: 2
-        x: 760
-        y: 463
-        width: 38
-        height: 27
+        x: 761
+        y: 464
+        width: 36
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,10 +721,10 @@ TextureImporter:
       name: corgi-assetnotail_15
       rect:
         serializedVersion: 2
-        x: 17
-        y: 405
-        width: 6
-        height: 20
+        x: 18
+        y: 406
+        width: 4
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: corgi-assetnotail_16
       rect:
         serializedVersion: 2
-        x: 24
-        y: 405
-        width: 18
-        height: 20
+        x: 25
+        y: 406
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,10 +765,10 @@ TextureImporter:
       name: corgi-assetnotail_17
       rect:
         serializedVersion: 2
-        x: 44
-        y: 405
-        width: 13
-        height: 20
+        x: 45
+        y: 406
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,10 +787,10 @@ TextureImporter:
       name: corgi-assetnotail_18
       rect:
         serializedVersion: 2
-        x: 57
-        y: 405
-        width: 14
-        height: 20
+        x: 58
+        y: 406
+        width: 12
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -809,10 +809,10 @@ TextureImporter:
       name: corgi-assetnotail_19
       rect:
         serializedVersion: 2
-        x: 71
-        y: 405
-        width: 11
-        height: 20
+        x: 72
+        y: 406
+        width: 9
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -831,10 +831,10 @@ TextureImporter:
       name: corgi-assetnotail_20
       rect:
         serializedVersion: 2
-        x: 111
-        y: 399
-        width: 34
-        height: 30
+        x: 112
+        y: 400
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,10 +853,10 @@ TextureImporter:
       name: corgi-assetnotail_21
       rect:
         serializedVersion: 2
-        x: 175
-        y: 399
-        width: 34
-        height: 29
+        x: 176
+        y: 400
+        width: 32
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,10 +875,10 @@ TextureImporter:
       name: corgi-assetnotail_22
       rect:
         serializedVersion: 2
-        x: 239
-        y: 399
-        width: 34
-        height: 30
+        x: 240
+        y: 400
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,10 +897,10 @@ TextureImporter:
       name: corgi-assetnotail_23
       rect:
         serializedVersion: 2
-        x: 303
-        y: 399
-        width: 34
-        height: 30
+        x: 304
+        y: 400
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -919,10 +919,10 @@ TextureImporter:
       name: corgi-assetnotail_24
       rect:
         serializedVersion: 2
-        x: 367
-        y: 399
-        width: 34
-        height: 29
+        x: 368
+        y: 400
+        width: 32
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -941,10 +941,10 @@ TextureImporter:
       name: corgi-assetnotail_25
       rect:
         serializedVersion: 2
-        x: 13
-        y: 341
-        width: 6
-        height: 20
+        x: 14
+        y: 342
+        width: 4
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -963,10 +963,10 @@ TextureImporter:
       name: corgi-assetnotail_26
       rect:
         serializedVersion: 2
-        x: 20
-        y: 341
-        width: 18
-        height: 20
+        x: 21
+        y: 342
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,10 +985,10 @@ TextureImporter:
       name: corgi-assetnotail_27
       rect:
         serializedVersion: 2
-        x: 40
-        y: 341
-        width: 13
-        height: 20
+        x: 41
+        y: 342
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1007,10 +1007,10 @@ TextureImporter:
       name: corgi-assetnotail_28
       rect:
         serializedVersion: 2
-        x: 53
-        y: 341
-        width: 14
-        height: 20
+        x: 54
+        y: 342
+        width: 12
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1029,10 +1029,10 @@ TextureImporter:
       name: corgi-assetnotail_29
       rect:
         serializedVersion: 2
-        x: 67
-        y: 341
-        width: 15
-        height: 20
+        x: 68
+        y: 342
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1051,10 +1051,10 @@ TextureImporter:
       name: corgi-assetnotail_30
       rect:
         serializedVersion: 2
-        x: 111
-        y: 335
-        width: 34
-        height: 30
+        x: 112
+        y: 336
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,10 +1073,10 @@ TextureImporter:
       name: corgi-assetnotail_31
       rect:
         serializedVersion: 2
-        x: 175
-        y: 335
-        width: 34
-        height: 30
+        x: 176
+        y: 336
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1095,10 +1095,10 @@ TextureImporter:
       name: corgi-assetnotail_32
       rect:
         serializedVersion: 2
-        x: 239
-        y: 335
-        width: 34
-        height: 29
+        x: 240
+        y: 336
+        width: 32
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1117,10 +1117,10 @@ TextureImporter:
       name: corgi-assetnotail_33
       rect:
         serializedVersion: 2
-        x: 303
-        y: 335
-        width: 34
-        height: 29
+        x: 304
+        y: 336
+        width: 32
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1139,10 +1139,10 @@ TextureImporter:
       name: corgi-assetnotail_34
       rect:
         serializedVersion: 2
-        x: 367
-        y: 335
-        width: 34
-        height: 30
+        x: 368
+        y: 336
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,10 +1161,10 @@ TextureImporter:
       name: corgi-assetnotail_35
       rect:
         serializedVersion: 2
-        x: 28
-        y: 277
-        width: 15
-        height: 20
+        x: 29
+        y: 278
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1183,10 +1183,10 @@ TextureImporter:
       name: corgi-assetnotail_36
       rect:
         serializedVersion: 2
-        x: 45
-        y: 277
-        width: 6
-        height: 20
+        x: 46
+        y: 278
+        width: 4
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: corgi-assetnotail_37
       rect:
         serializedVersion: 2
-        x: 51
-        y: 277
-        width: 16
-        height: 20
+        x: 52
+        y: 278
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1227,10 +1227,10 @@ TextureImporter:
       name: corgi-assetnotail_38
       rect:
         serializedVersion: 2
-        x: 111
-        y: 271
-        width: 34
-        height: 30
+        x: 112
+        y: 272
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1249,10 +1249,10 @@ TextureImporter:
       name: corgi-assetnotail_39
       rect:
         serializedVersion: 2
-        x: 175
-        y: 271
-        width: 34
-        height: 30
+        x: 176
+        y: 272
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1271,10 +1271,10 @@ TextureImporter:
       name: corgi-assetnotail_40
       rect:
         serializedVersion: 2
-        x: 239
-        y: 271
-        width: 33
-        height: 31
+        x: 240
+        y: 272
+        width: 31
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1293,10 +1293,10 @@ TextureImporter:
       name: corgi-assetnotail_41
       rect:
         serializedVersion: 2
-        x: 303
-        y: 271
-        width: 32
-        height: 31
+        x: 304
+        y: 272
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,10 +1315,10 @@ TextureImporter:
       name: corgi-assetnotail_42
       rect:
         serializedVersion: 2
-        x: 367
-        y: 271
-        width: 32
-        height: 31
+        x: 368
+        y: 272
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1337,10 +1337,10 @@ TextureImporter:
       name: corgi-assetnotail_43
       rect:
         serializedVersion: 2
-        x: 431
-        y: 271
-        width: 32
-        height: 31
+        x: 432
+        y: 272
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1359,10 +1359,10 @@ TextureImporter:
       name: corgi-assetnotail_44
       rect:
         serializedVersion: 2
-        x: 495
-        y: 271
-        width: 32
-        height: 31
+        x: 496
+        y: 272
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1381,10 +1381,10 @@ TextureImporter:
       name: corgi-assetnotail_45
       rect:
         serializedVersion: 2
-        x: 559
-        y: 271
-        width: 32
-        height: 31
+        x: 560
+        y: 272
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1403,10 +1403,10 @@ TextureImporter:
       name: corgi-assetnotail_46
       rect:
         serializedVersion: 2
-        x: 623
-        y: 271
-        width: 32
-        height: 31
+        x: 624
+        y: 272
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,10 +1425,10 @@ TextureImporter:
       name: corgi-assetnotail_47
       rect:
         serializedVersion: 2
-        x: 7
-        y: 213
-        width: 28
-        height: 20
+        x: 8
+        y: 214
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,10 +1447,10 @@ TextureImporter:
       name: corgi-assetnotail_48
       rect:
         serializedVersion: 2
-        x: 31
-        y: 213
-        width: 21
-        height: 20
+        x: 32
+        y: 214
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1469,10 +1469,10 @@ TextureImporter:
       name: corgi-assetnotail_49
       rect:
         serializedVersion: 2
-        x: 52
-        y: 213
-        width: 13
-        height: 20
+        x: 53
+        y: 214
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1491,10 +1491,10 @@ TextureImporter:
       name: corgi-assetnotail_50
       rect:
         serializedVersion: 2
-        x: 66
-        y: 213
-        width: 18
-        height: 20
+        x: 67
+        y: 214
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1513,10 +1513,10 @@ TextureImporter:
       name: corgi-assetnotail_51
       rect:
         serializedVersion: 2
-        x: 109
-        y: 207
-        width: 39
-        height: 30
+        x: 110
+        y: 208
+        width: 37
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1535,10 +1535,10 @@ TextureImporter:
       name: corgi-assetnotail_52
       rect:
         serializedVersion: 2
-        x: 173
-        y: 208
-        width: 36
-        height: 30
+        x: 174
+        y: 209
+        width: 34
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1557,10 +1557,10 @@ TextureImporter:
       name: corgi-assetnotail_53
       rect:
         serializedVersion: 2
-        x: 237
-        y: 207
-        width: 36
-        height: 30
+        x: 238
+        y: 208
+        width: 34
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1579,10 +1579,10 @@ TextureImporter:
       name: corgi-assetnotail_54
       rect:
         serializedVersion: 2
-        x: 302
-        y: 207
-        width: 35
-        height: 29
+        x: 303
+        y: 208
+        width: 33
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1601,10 +1601,10 @@ TextureImporter:
       name: corgi-assetnotail_55
       rect:
         serializedVersion: 2
-        x: 366
-        y: 207
-        width: 35
-        height: 31
+        x: 367
+        y: 208
+        width: 33
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,10 +1623,10 @@ TextureImporter:
       name: corgi-assetnotail_56
       rect:
         serializedVersion: 2
-        x: 17
-        y: 148
-        width: 16
-        height: 20
+        x: 18
+        y: 149
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1645,10 +1645,10 @@ TextureImporter:
       name: corgi-assetnotail_57
       rect:
         serializedVersion: 2
-        x: 33
-        y: 148
-        width: 17
-        height: 20
+        x: 34
+        y: 149
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: corgi-assetnotail_58
       rect:
         serializedVersion: 2
-        x: 52
-        y: 148
-        width: 18
-        height: 20
+        x: 53
+        y: 149
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1689,10 +1689,10 @@ TextureImporter:
       name: corgi-assetnotail_59
       rect:
         serializedVersion: 2
-        x: 110
-        y: 145
-        width: 39
-        height: 25
+        x: 111
+        y: 146
+        width: 37
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1711,10 +1711,10 @@ TextureImporter:
       name: corgi-assetnotail_60
       rect:
         serializedVersion: 2
-        x: 174
-        y: 143
-        width: 38
-        height: 27
+        x: 175
+        y: 144
+        width: 36
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1733,10 +1733,10 @@ TextureImporter:
       name: corgi-assetnotail_61
       rect:
         serializedVersion: 2
-        x: 239
-        y: 143
-        width: 37
-        height: 27
+        x: 240
+        y: 144
+        width: 35
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1755,10 +1755,10 @@ TextureImporter:
       name: corgi-assetnotail_62
       rect:
         serializedVersion: 2
-        x: 304
-        y: 143
-        width: 36
-        height: 27
+        x: 305
+        y: 144
+        width: 34
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1777,10 +1777,10 @@ TextureImporter:
       name: corgi-assetnotail_63
       rect:
         serializedVersion: 2
-        x: 372
-        y: 144
-        width: 34
-        height: 30
+        x: 373
+        y: 145
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1799,10 +1799,10 @@ TextureImporter:
       name: corgi-assetnotail_64
       rect:
         serializedVersion: 2
-        x: 437
-        y: 143
-        width: 34
-        height: 31
+        x: 438
+        y: 144
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1821,10 +1821,10 @@ TextureImporter:
       name: corgi-assetnotail_65
       rect:
         serializedVersion: 2
-        x: 502
-        y: 143
-        width: 34
-        height: 31
+        x: 503
+        y: 144
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1843,10 +1843,10 @@ TextureImporter:
       name: corgi-assetnotail_66
       rect:
         serializedVersion: 2
-        x: 564
-        y: 143
-        width: 38
-        height: 28
+        x: 565
+        y: 144
+        width: 36
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1865,10 +1865,10 @@ TextureImporter:
       name: corgi-assetnotail_67
       rect:
         serializedVersion: 2
-        x: 11
-        y: 84
-        width: 15
-        height: 20
+        x: 12
+        y: 85
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1887,10 +1887,10 @@ TextureImporter:
       name: corgi-assetnotail_68
       rect:
         serializedVersion: 2
-        x: 28
-        y: 84
-        width: 18
-        height: 20
+        x: 29
+        y: 85
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1909,10 +1909,10 @@ TextureImporter:
       name: corgi-assetnotail_69
       rect:
         serializedVersion: 2
-        x: 48
-        y: 84
-        width: 6
-        height: 20
+        x: 49
+        y: 85
+        width: 4
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1931,10 +1931,10 @@ TextureImporter:
       name: corgi-assetnotail_70
       rect:
         serializedVersion: 2
-        x: 56
-        y: 84
-        width: 13
-        height: 20
+        x: 57
+        y: 85
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1953,10 +1953,10 @@ TextureImporter:
       name: corgi-assetnotail_71
       rect:
         serializedVersion: 2
-        x: 70
-        y: 84
-        width: 13
-        height: 20
+        x: 71
+        y: 85
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1975,10 +1975,10 @@ TextureImporter:
       name: corgi-assetnotail_72
       rect:
         serializedVersion: 2
-        x: 111
-        y: 79
-        width: 40
-        height: 21
+        x: 112
+        y: 80
+        width: 38
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1997,10 +1997,10 @@ TextureImporter:
       name: corgi-assetnotail_73
       rect:
         serializedVersion: 2
-        x: 174
-        y: 79
-        width: 40
-        height: 21
+        x: 175
+        y: 80
+        width: 38
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2019,10 +2019,10 @@ TextureImporter:
       name: corgi-assetnotail_74
       rect:
         serializedVersion: 2
-        x: 238
-        y: 79
-        width: 40
-        height: 22
+        x: 239
+        y: 80
+        width: 38
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2041,10 +2041,10 @@ TextureImporter:
       name: corgi-assetnotail_75
       rect:
         serializedVersion: 2
-        x: 302
-        y: 79
-        width: 41
-        height: 21
+        x: 303
+        y: 80
+        width: 39
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2063,10 +2063,10 @@ TextureImporter:
       name: corgi-assetnotail_76
       rect:
         serializedVersion: 2
-        x: 367
-        y: 79
-        width: 39
-        height: 21
+        x: 368
+        y: 80
+        width: 37
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2085,10 +2085,10 @@ TextureImporter:
       name: corgi-assetnotail_77
       rect:
         serializedVersion: 2
-        x: 430
-        y: 79
-        width: 40
-        height: 21
+        x: 431
+        y: 80
+        width: 38
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2107,10 +2107,10 @@ TextureImporter:
       name: corgi-assetnotail_78
       rect:
         serializedVersion: 2
-        x: 494
-        y: 79
-        width: 41
-        height: 22
+        x: 495
+        y: 80
+        width: 39
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2129,10 +2129,10 @@ TextureImporter:
       name: corgi-assetnotail_79
       rect:
         serializedVersion: 2
-        x: 558
-        y: 79
-        width: 41
-        height: 21
+        x: 559
+        y: 80
+        width: 39
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2151,10 +2151,10 @@ TextureImporter:
       name: corgi-assetnotail_80
       rect:
         serializedVersion: 2
-        x: 3
-        y: 31
-        width: 15
-        height: 20
+        x: 4
+        y: 32
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2173,10 +2173,10 @@ TextureImporter:
       name: corgi-assetnotail_81
       rect:
         serializedVersion: 2
-        x: 12
-        y: 11
-        width: 28
-        height: 20
+        x: 21
+        y: 32
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2195,10 +2195,10 @@ TextureImporter:
       name: corgi-assetnotail_82
       rect:
         serializedVersion: 2
-        x: 20
-        y: 31
-        width: 18
-        height: 20
+        x: 41
+        y: 32
+        width: 4
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2217,10 +2217,10 @@ TextureImporter:
       name: corgi-assetnotail_83
       rect:
         serializedVersion: 2
-        x: 36
-        y: 11
-        width: 21
-        height: 20
+        x: 49
+        y: 32
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2239,10 +2239,10 @@ TextureImporter:
       name: corgi-assetnotail_84
       rect:
         serializedVersion: 2
-        x: 40
-        y: 31
-        width: 6
-        height: 20
+        x: 63
+        y: 32
+        width: 29
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2261,10 +2261,10 @@ TextureImporter:
       name: corgi-assetnotail_85
       rect:
         serializedVersion: 2
-        x: 48
-        y: 31
-        width: 13
-        height: 20
+        x: 111
+        y: 16
+        width: 39
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2283,10 +2283,10 @@ TextureImporter:
       name: corgi-assetnotail_86
       rect:
         serializedVersion: 2
-        x: 57
-        y: 11
-        width: 13
-        height: 20
+        x: 174
+        y: 16
+        width: 39
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2305,9 +2305,9 @@ TextureImporter:
       name: corgi-assetnotail_87
       rect:
         serializedVersion: 2
-        x: 62
-        y: 31
-        width: 31
+        x: 239
+        y: 16
+        width: 38
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2327,9 +2327,9 @@ TextureImporter:
       name: corgi-assetnotail_88
       rect:
         serializedVersion: 2
-        x: 71
-        y: 11
-        width: 18
+        x: 303
+        y: 16
+        width: 39
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2349,10 +2349,10 @@ TextureImporter:
       name: corgi-assetnotail_89
       rect:
         serializedVersion: 2
-        x: 110
-        y: 15
-        width: 41
-        height: 21
+        x: 367
+        y: 16
+        width: 38
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2371,10 +2371,10 @@ TextureImporter:
       name: corgi-assetnotail_90
       rect:
         serializedVersion: 2
-        x: 173
-        y: 15
-        width: 41
-        height: 21
+        x: 432
+        y: 16
+        width: 38
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2393,10 +2393,10 @@ TextureImporter:
       name: corgi-assetnotail_91
       rect:
         serializedVersion: 2
-        x: 238
-        y: 15
-        width: 40
-        height: 23
+        x: 495
+        y: 16
+        width: 39
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2415,10 +2415,10 @@ TextureImporter:
       name: corgi-assetnotail_92
       rect:
         serializedVersion: 2
-        x: 302
-        y: 15
-        width: 41
-        height: 22
+        x: 559
+        y: 16
+        width: 39
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2437,10 +2437,10 @@ TextureImporter:
       name: corgi-assetnotail_93
       rect:
         serializedVersion: 2
-        x: 366
-        y: 15
-        width: 40
-        height: 21
+        x: 13
+        y: 12
+        width: 26
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2459,10 +2459,10 @@ TextureImporter:
       name: corgi-assetnotail_94
       rect:
         serializedVersion: 2
-        x: 431
-        y: 15
-        width: 40
-        height: 22
+        x: 37
+        y: 12
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2481,10 +2481,10 @@ TextureImporter:
       name: corgi-assetnotail_95
       rect:
         serializedVersion: 2
-        x: 494
-        y: 15
-        width: 41
-        height: 22
+        x: 58
+        y: 12
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2503,10 +2503,10 @@ TextureImporter:
       name: corgi-assetnotail_96
       rect:
         serializedVersion: 2
-        x: 558
-        y: 15
-        width: 41
-        height: 22
+        x: 72
+        y: 12
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2525,7 +2525,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 255e8e2108c1d421ba417fcf28531727
     internalID: 0
     vertices: []
     indices: 
