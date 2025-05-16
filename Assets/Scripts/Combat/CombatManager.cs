@@ -29,7 +29,14 @@ public class CombatManager : MonoBehaviour
         Debug.Log("Player's turn");
         yield return new WaitForSeconds(1f);
 
-        int damage = CombatSystem.CalculateDamage(10, 0); // placeholder values
+        string playerChoice = "attack";
+
+        if (playerChoice == "attack")
+        {
+            
+        } 
+        
+        int damage = CombatSystem.CalculateDamage(10, currentEnemy.defense); // placeholder values
         currentEnemy.TakeDamage(damage);
 
         if (currentEnemy.IsDefeated())
