@@ -5,10 +5,15 @@ public enum GameState
     TitleScreen,
     Overworld,
     Combat,
-    Pause,
-    Inventory,
     Win,
     Loss
+}
+
+public enum BiomeState
+{
+    Forest,
+    Savanna,
+    Mountain
 }
 
 public class GameController : MonoBehaviour
@@ -16,6 +21,7 @@ public class GameController : MonoBehaviour
     public static GameController Instance;
 
     public GameState CurrentGameState = GameState.TitleScreen;
+    public BiomeState CurrentBiomeState = BiomeState.Forest;
 
     private void Awake()
     {
@@ -43,12 +49,6 @@ public class GameController : MonoBehaviour
             case GameState.Overworld:
                 // continue player control
                 break;
-            case GameState.Pause:
-                // show pause screen
-                break;
-            case GameState.Inventory:
-                // show inventory ui overlay
-                break;
             case GameState.Win:
                 // trigger win screen
                 break;
@@ -59,5 +59,11 @@ public class GameController : MonoBehaviour
                 // return to main menu
                 break;
         }
+    }
+    
+    public void SetBiomeState(BiomeState newState)
+    {
+        CurrentBiomeState = newState;
+        Debug.Log("Biome state changed to: " + newState);
     }
 }
