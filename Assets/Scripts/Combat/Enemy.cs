@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
     public int maxHealth = 30;
     public int currentHealth;
     public int damage = 5;
+    public int defense = 2;
 
     public Sprite enemySprite;
 
