@@ -8,6 +8,11 @@ public class Chest : MonoBehaviour
 
     private SpriteRenderer _spriteRenderer;
     private bool isOpened = false;
+    
+    public Item itemToAdd;
+    
+    public float displayDuration = 2f;   
+
 
     private void Start()
     {
@@ -28,5 +33,16 @@ public class Chest : MonoBehaviour
         isOpened = true;
         _spriteRenderer.sprite = openSprite;
         // add item to inventory + dialogue of item found
+        
+        // ─── DIAGNOSTIC LOGS ───────────────────────────────────────────
+        Debug.Log($"[{name}] InventoryManager.Instance = {InventoryManager.Instance}");
+        Debug.Log($"[{name}] itemToAdd = {itemToAdd}");
+        Debug.Log($"[{name}] UIManager.Instance = {UIManager.Instance}");
+        // ────────────────────────────────────────────────────────────────
+
+        InventoryManager.Instance.AddItem(itemToAdd);    // ← ADDED
+        
+        UIManager.Instance.ShowPopup($"Added “{itemToAdd.itemName}”!",displayDuration);
+
     }
 }
