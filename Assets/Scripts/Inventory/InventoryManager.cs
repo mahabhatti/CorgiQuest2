@@ -6,8 +6,8 @@ public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance { get; private set; }
 
-    // Change Item to whatever class/struct you use
-    private  List<Item> _items = new List<Item>();
+    // List of Items AKA inventory
+    private  List<Item> items = new List<Item>();
 
     void Awake()
     {
@@ -20,36 +20,30 @@ public class InventoryManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-    /// <summary>
-    /// Add a new item to the global inventory.
-    /// </summary>
+   
     public void AddItem(Item item)
     {
-        _items.Add(item);
-        Debug.Log($"Added {item.itemName}. Total items: {_items.Count}");
+        //add items to inventory
+        items.Add(item);
     }
 
-    /// <summary>
-    /// Remove item if present; returns true on success.
-    /// </summary>
     public bool RemoveItem(Item item)
     {
-        return _items.Remove(item);
+        //remove items from inventory
+        return items.Remove(item);
     }
 
-    /// <summary>
-    /// Read-only view for UI or logic.
-    /// </summary>
+    
     public IReadOnlyList<Item> GetAllItems()
     {
-        return _items;
+        //only read all items in the inventory
+        return items;
     }
 
-    /// <summary>
-    /// Clear inventory (e.g. on game over).
-    /// </summary>
+ 
     public void Clear()
     {
-        _items.Clear();
+        //clear the inventory list
+        items.Clear();
     }
 }

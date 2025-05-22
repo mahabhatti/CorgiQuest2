@@ -6,80 +6,93 @@ public class UIManager : MonoBehaviour
 {
     public static UIManager Instance { get; private set; }
 
-    [Header("Drag your PopUpCanvas prefab here")]
-    public GameObject PopUpCanvasPrefab;    // ← Assign your PopUpCanvas prefab
-
-    private GameObject PopUpCanvas;         // the instantiated canvas
+    public GameObject PopUpCanvasPrefab;   //prefab for the canvas pop up
+    private GameObject PopUpCanvas;         // canvas for the pop up
     private GameObject PopUpPanel;          // the dimming panel under the canvas
-    private TMP_Text PopUpText;           // the Text component that shows the message
+    private TMP_Text PopUpText;           // the message to show up
 
     private void Awake()
     {
-        // ─── Singleton setup ─────────────────────────────────────
-        Debug.Log("[UIManager] Instance before assignment = " + Instance, this);
+    // Singleton initialization       
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
             return;
         }
         Instance = this;
-        Debug.Log("[UIManager] Instance after assignment = " + Instance, this);
         DontDestroyOnLoad(gameObject);
 
-        // ─── Prefab reference check ──────────────────────────────
+        // checking the prefab
         if (PopUpCanvasPrefab == null)
         {
-            Debug.LogError("[UIManager] PopUpCanvasPrefab is NULL! Assign it in the Inspector.", this);
             return;
         }
 
-        // ─── Instantiate the canvas and make it persist ──────────
+        // Instantiate the canvas
         PopUpCanvas = Instantiate(PopUpCanvasPrefab);
         DontDestroyOnLoad(PopUpCanvas);
 
-        // ─── Find the PopUpPanel by name ────────────────────────
-        var panelTransform = PopUpCanvas.transform.Find("PopUpPanel");
-        if (panelTransform == null)
+        // find the panel
+        if (canvasSetUp(out var panelTransform))
         {
-            Debug.LogError("[UIManager] Could not find a child named 'PopUpPanel' in the prefab.", PopUpCanvas);
-            return;
-        }
-        PopUpPanel = panelTransform.gameObject;
-
-        // ─── Find the PopUpText under the panel ─────────────────
-        var textTransform = panelTransform.Find("PopUpText");
-        if (textTransform == null)
-        {
-            Debug.LogError("[UIManager] Could not find a child named 'PopUpText' under PopUpPanel.", PopUpPanel);
-            return;
-        }
-        PopUpText = textTransform.GetComponent<TMP_Text>();
-        if (PopUpText == null)
-        {
-            Debug.LogError("[UIManager] 'PopUpText' has no Text component!", textTransform);
             return;
         }
 
-        // ─── Hide the panel at start ────────────────────────────
+        // find the text
+        if (textSetUp(panelTransform))
+        {
+            return;
+        }
+
+        //Hide the panel at start of the game
         PopUpPanel.SetActive(false);
     }
 
-    /// <summary>
-    /// Shows the popup message for 'duration' seconds.
-    /// </summary>
+    private bool textSetUp(Transform panelTransform)
+    {
+        var textTransform = panelTransform.Find("PopUpText");
+        if (textTransform == null)
+        {
+            return true;
+        }
+        //text mesh pro implementation
+        PopUpText = textTransform.GetComponent<TMP_Text>();
+        if (PopUpText == null)
+        {
+            return true;
+        }
+
+        return false;
+    }
+
+    private bool canvasSetUp(out Transform panelTransform)
+    {
+        panelTransform = PopUpCanvas.transform.Find("PopUpPanel");
+        if (panelTransform == null)
+        {
+            return true;
+        }
+        PopUpPanel = panelTransform.gameObject;
+        return false;
+    }
+
+
     public void ShowPopup(string message, float duration = 2f)
     {
+        // Displays a popup message
         if (PopUpPanel == null || PopUpText == null) return;
 
         PopUpText.text = message;
         PopUpPanel.SetActive(true);
 
+        // Restart hide coroutine
         StopAllCoroutines();
         StartCoroutine(HideAfter(duration));
     }
 
     private IEnumerator HideAfter(float wait)
     {
+       // Hides the popup after the delay.
         yield return new WaitForSeconds(wait);
         PopUpPanel.SetActive(false);
     }

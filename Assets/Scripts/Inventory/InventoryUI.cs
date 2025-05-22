@@ -4,18 +4,20 @@ using UnityEngine.UI;
 public class InventoryUI : MonoBehaviour
 {
     [Header("UI References")]
-    public GameObject inventoryPanel;       // drag in your InventoryPanel
-    public Transform contentParent;         // the ScrollView content or Layout object
-    public GameObject itemSlotPrefab;       // your ItemSlot prefab
+    public GameObject inventoryPanel;       // the inventory panel
+    public Transform contentParent;         // the content layout
+    public GameObject itemSlotPrefab;       // item
 
     void Start()
     {
+        //panel should not show at start of game
         inventoryPanel.SetActive(false);
     }
 
-    // Wire this to the Button's OnClick
+    
     public void ToggleInventory()
-    {
+    {   
+        // using a button
         bool show = !inventoryPanel.activeSelf;
         inventoryPanel.SetActive(show);
         if (show) RefreshInventory();
@@ -23,7 +25,7 @@ public class InventoryUI : MonoBehaviour
 
     void RefreshInventory()
     {
-        // Clear old entries
+        // Clear all the old entries
         foreach (Transform child in contentParent)
             Destroy(child.gameObject);
 
@@ -32,8 +34,7 @@ public class InventoryUI : MonoBehaviour
         {
             GameObject slot = Instantiate(itemSlotPrefab, contentParent);
             Text label = slot.GetComponentInChildren<Text>();
-            label.text = item.itemName;
-            // you could also set an Image component for item icons here
+            label.text = item.itemName; 
         }
     }
 }

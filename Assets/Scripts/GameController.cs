@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 
-public enum GameState
+public enum GameState 
 {
     TitleScreen,
     Overworld,
