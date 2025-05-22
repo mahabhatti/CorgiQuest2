@@ -1,10 +1,9 @@
 using UnityEngine;
 
-// You can drop this in no namespace, or pick one that matches your other scripts.
 [System.Serializable]
 public class Item : MonoBehaviour 
 {
+    //name of item and id (simple implementation for now)
     public string itemName;
     public int     id;
-    // any other fields you need...
 }

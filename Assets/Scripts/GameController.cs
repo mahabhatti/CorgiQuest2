@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public enum GameState
+public enum GameState 
 {
     TitleScreen,
     Overworld,
