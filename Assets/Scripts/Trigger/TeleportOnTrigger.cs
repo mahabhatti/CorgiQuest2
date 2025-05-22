@@ -3,6 +3,7 @@ using UnityEngine;
 public class TeleportOnTrigger : MonoBehaviour
 {
     public Transform teleportTarget;
+    public BiomeState SetBiome;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -15,6 +16,7 @@ public class TeleportOnTrigger : MonoBehaviour
             }
             
             other.transform.position = teleportTarget.position;
+            GameController.Instance.SetBiomeState(SetBiome);
         }
     }
 }

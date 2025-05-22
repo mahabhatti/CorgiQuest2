@@ -1037,6 +1037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentGameState: 0
+  CurrentBiomeState: 2
 --- !u!4 &1867070850
 Transform:
   m_ObjectHideFlags: 0
