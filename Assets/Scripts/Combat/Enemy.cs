@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy : ScriptableObject
 {
     public string enemyName = "Enemy";
     public int maxHealth = 30;
@@ -28,9 +28,9 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    public virtual void Attack(PlayerController player)
+    public virtual void Attack(PlayerStats player)
     {
-        int calculatedDamage = CombatSystem.CalculateDamage(damage, player.defense);
+        int calculatedDamage = CombatSystem.CalculateDamage(damage, player.currentDefense);
         player.TakeDamage(calculatedDamage);
         Debug.Log($"{enemyName} attacks Sandie for {damage} damage.");
     }
@@ -43,6 +43,5 @@ public class Enemy : MonoBehaviour
     protected virtual void Defeat()
     {
         Debug.Log($"{enemyName} has been defeated.");
-        gameObject.SetActive(false);
     }
 }

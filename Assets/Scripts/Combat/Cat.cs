@@ -3,9 +3,9 @@ using UnityEngine;
 
 public class Cat : Enemy
 {
-    public override void Attack(PlayerController player)
+    public override void Attack(PlayerStats player)
     {
-        int calculatedDamage = CombatSystem.CalculateDamage(damage + 1, player.defense);
+        int calculatedDamage = CombatSystem.CalculateDamage(damage + 1, player.currentDefense);
         player.TakeDamage(calculatedDamage);
         Debug.Log("The cat scratches");
     }
@@ -17,13 +17,5 @@ public class Cat : Enemy
         // drop item, add animation
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            CombatManager combatManager = FindFirstObjectByType<CombatManager>();
-            combatManager.StartCombat(this);
-            GetComponent<Collider2D>().enabled = false;
-        }
-    }
+    
 }
