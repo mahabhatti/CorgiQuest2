@@ -23,6 +23,8 @@ public class GameController : MonoBehaviour
     public GameState CurrentGameState = GameState.TitleScreen;
     public BiomeState CurrentBiomeState = BiomeState.Forest;
 
+    public string nextEnemyPrefabName;
+
     private void Awake()
     {
         if (Instance == null)
@@ -65,5 +67,10 @@ public class GameController : MonoBehaviour
     {
         CurrentBiomeState = newState;
         Debug.Log("Biome state changed to: " + newState);
+    }
+
+    public void SetNextEnemy(string prefabName)
+    {
+        nextEnemyPrefabName = prefabName;
     }
 }

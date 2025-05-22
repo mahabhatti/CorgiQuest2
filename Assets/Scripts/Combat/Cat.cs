@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Cat : Enemy
 {
@@ -21,9 +22,8 @@ public class Cat : Enemy
     {
         if (other.CompareTag("Player"))
         {
-            CombatManager combatManager = FindFirstObjectByType<CombatManager>();
-            combatManager.StartCombat(this);
-            GetComponent<Collider2D>().enabled = false;
+            GameController.Instance.SetNextEnemy("Cat");
+            SceneManager.LoadScene("CombatScreen");
         }
     }
 }
