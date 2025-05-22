@@ -29,6 +29,8 @@ public class GameController : MonoBehaviour
     private List<string> defeatedEnemies;
     private Dictionary<BiomeState, Transform> biomeSpawns = new();
 
+    public string nextEnemyPrefabName;
+
     private void Awake()
     {
         if (Instance == null)

@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Cat : Enemy
 {
@@ -17,5 +18,12 @@ public class Cat : Enemy
         // drop item, add animation
     }
 
-    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            GameController.Instance.SetNextEnemy("Cat");
+            SceneManager.LoadScene("CombatScreen");
+        }
+    }
 }
