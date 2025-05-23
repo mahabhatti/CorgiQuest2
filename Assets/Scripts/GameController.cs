@@ -79,7 +79,7 @@ public class GameController : MonoBehaviour
     
     public void SetCurrentEnemy(string enemyID)
     {
-        CurrentEnemyID = enemyID;
+        nextEnemyPrefabName = enemyID;
         Debug.Log("Current enemy changed to: " + enemyID);
     }
 

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy : ScriptableObject
+public class Enemy : MonoBehaviour
 {
     public string enemyName = "Enemy";
     public int maxHealth = 30;

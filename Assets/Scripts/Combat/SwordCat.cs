@@ -4,9 +4,9 @@ using UnityEngine.SceneManagement;
 
 public class SwordCat : Enemy
 {
-    public override void Attack(PlayerController player)
+    public override void Attack(PlayerStats player)
     {
-        int calculatedDamage = CombatSystem.CalculateDamage(damage + 3, player.defense);
+        int calculatedDamage = CombatSystem.CalculateDamage(damage + 3, player.currentDefense);
         player.TakeDamage(calculatedDamage);
         Debug.Log("SwordCat slashes");
     }
@@ -21,7 +21,7 @@ public class SwordCat : Enemy
     {
         if (other.CompareTag("Player"))
         {
-            GameController.Instance.SetNextEnemy("SwordCat");
+            GameController.Instance.SetCurrentEnemy("SwordCat");
             SceneManager.LoadScene("CombatScreen");
         }
     }

@@ -22,7 +22,7 @@ public class Cat : Enemy
     {
         if (other.CompareTag("Player"))
         {
-            GameController.Instance.SetNextEnemy("Cat");
+            GameController.Instance.SetCurrentEnemy("Cat");
             SceneManager.LoadScene("CombatScreen");
         }
     }

@@ -2,7 +2,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using WaitForSeconds = UnityEngine.WaitForSeconds;
-using UnityEngine.UI;
 
 public class CombatManager : MonoBehaviour
 {
@@ -30,6 +29,7 @@ public class CombatManager : MonoBehaviour
 
         if (string.IsNullOrEmpty(enemyPrefabName))
         {
+            // enemyPrefabName = "Cat";
             enemyPrefabName = GameController.Instance.nextEnemyPrefabName;
         }
         
@@ -46,6 +46,7 @@ public class CombatManager : MonoBehaviour
     private void LoadEnemy()
     {
         GameObject enemyPrefab = Resources.Load<GameObject>("Prefabs/Enemies/" + enemyPrefabName);
+
         if (enemyPrefab != null)
         {
             enemyInstance = Instantiate(enemyPrefab, enemySpawnPoint.position, Quaternion.identity);
@@ -64,22 +65,10 @@ public class CombatManager : MonoBehaviour
         }
     }
 
-    public void StartCombat(string enemyString)
+    public void StartCombat(Enemy currentEnemy)
     {
         player = PlayerStats.Instance;
         
-        switch (enemyString)
-        {
-            case "Cat":
-                currentEnemy = ScriptableObject.CreateInstance<Cat>();
-                break;
-            case "SwordCat":
-                currentEnemy = ScriptableObject.CreateInstance<Cat>();
-                break;
-            case "FatCat":
-                currentEnemy = ScriptableObject.CreateInstance<Cat>();
-                break;
-        }
         GameController.Instance.SetGameState(GameState.Combat);
         Debug.Log($"Combat with: {currentEnemy.enemyName}");
 
@@ -144,7 +133,7 @@ public class CombatManager : MonoBehaviour
                 GameController.Instance.SetGameState(GameState.Win);
                 yield break;
             }
-        } 
+        
         StartCoroutine(EnemyTurn());
     }
 

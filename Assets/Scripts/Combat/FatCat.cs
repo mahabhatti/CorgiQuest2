@@ -3,9 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class FatCat : Enemy
 {
-    public override void Attack(PlayerController player)
+    public override void Attack(PlayerStats player)
     {
-        int calculatedDamage = CombatSystem.CalculateDamage(damage, player.defense);
+        int calculatedDamage = CombatSystem.CalculateDamage(damage, player.currentDefense);
         player.TakeDamage(calculatedDamage);
         Debug.Log("FatCat attacks");
     }
@@ -20,7 +20,7 @@ public class FatCat : Enemy
     {
         if (other.CompareTag("Player"))
         {
-            GameController.Instance.SetNextEnemy("FatCat");
+            GameController.Instance.SetCurrentEnemy("FatCat");
             SceneManager.LoadScene("CombatScreen");
         }
     }

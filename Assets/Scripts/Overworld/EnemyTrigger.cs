@@ -10,7 +10,7 @@ public class EnemyTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            GameController.Instance.SetNextEnemy(enemyPrefabName);
+            GameController.Instance.SetCurrentEnemy(enemyPrefabName);
             SceneManager.LoadScene("CombatScreen");
         }
     }
