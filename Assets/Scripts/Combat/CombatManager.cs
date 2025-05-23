@@ -29,7 +29,6 @@ public class CombatManager : MonoBehaviour
 
         if (string.IsNullOrEmpty(enemyPrefabName))
         {
-            // enemyPrefabName = "Cat";
             enemyPrefabName = GameController.Instance.nextEnemyPrefabName;
         }
         
@@ -52,6 +51,7 @@ public class CombatManager : MonoBehaviour
             enemyInstance = Instantiate(enemyPrefab, enemySpawnPoint.position, Quaternion.identity);
             currentEnemy = enemyInstance.GetComponent<Enemy>();
 
+            print("Creating: " + currentEnemy.enemyName);
             enemyNameText.text = currentEnemy.enemyName;
             enemySpriteImage.sprite = currentEnemy.enemySprite;
             enemyHPBar.maxValue = currentEnemy.maxHealth;
