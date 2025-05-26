@@ -3,6 +3,9 @@ using System.Collections;
 
 public class LossManager : MonoBehaviour
 {
+    public static LossManager Instance;
+    
+    [Header("Assign your LossPanel here")]
     public GameObject lossPanel;
 
     //tracks whether the loss screen is being displayed
@@ -55,5 +58,11 @@ public class LossManager : MonoBehaviour
         Time.timeScale    = 1f;
         lossPanel.SetActive(false);
         isLossShown       = false;
+    }
+    
+    public void Respawn()
+    {
+        HideLoss();
+        GameController.Instance.ResetWorld();
     }
 }

@@ -1,11 +1,12 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Cat : Enemy
 {
-    public override void Attack(PlayerController player)
+    public override void Attack(PlayerStats player)
     {
-        int calculatedDamage = CombatSystem.CalculateDamage(damage + 1, player.defense);
+        int calculatedDamage = CombatSystem.CalculateDamage(damage + 1, player.currentDefense);
         player.TakeDamage(calculatedDamage);
         Debug.Log("The cat scratches");
     }
@@ -21,9 +22,8 @@ public class Cat : Enemy
     {
         if (other.CompareTag("Player"))
         {
-            CombatManager combatManager = FindFirstObjectByType<CombatManager>();
-            combatManager.StartCombat(this);
-            GetComponent<Collider2D>().enabled = false;
+            GameController.Instance.SetCurrentEnemy("Cat");
+            SceneManager.LoadScene("CombatScreen");
         }
     }
 }

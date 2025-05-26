@@ -1,25 +1,76 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using WaitForSeconds = UnityEngine.WaitForSeconds;
 
 public class CombatManager : MonoBehaviour
 {
-    public PlayerController player;
+    public PlayerStats player;
     public Enemy currentEnemy;
+    public Text NarrationText;
+    private string playerChoice = "";
+    private bool actionChosen = false;
+
+
+    public string enemyPrefabName;
+    public Transform enemySpawnPoint;
+    private GameObject enemyInstance;
+
+    public Text enemyNameText;
+    public Image enemySpriteImage;
+    public Slider enemyHPBar;
 
     private void Start()
     {
         if (player == null)
         {
-            player = FindFirstObjectByType<PlayerController>();
+            player = FindFirstObjectByType<PlayerStats>();
+        }
+
+        if (string.IsNullOrEmpty(enemyPrefabName))
+        {
+            enemyPrefabName = GameController.Instance.nextEnemyPrefabName;
+        }
+        
+        if (!string.IsNullOrEmpty(enemyPrefabName))
+        {
+            LoadEnemy();
+        }
+        else
+        {
+            Debug.LogError("set enemy prefab name");
         }
     }
 
-    public void StartCombat(Enemy enemy)
+    private void LoadEnemy()
     {
-        currentEnemy = enemy;
+        GameObject enemyPrefab = Resources.Load<GameObject>("Prefabs/Enemies/" + enemyPrefabName);
+
+        if (enemyPrefab != null)
+        {
+            enemyInstance = Instantiate(enemyPrefab, enemySpawnPoint.position, Quaternion.identity);
+            currentEnemy = enemyInstance.GetComponent<Enemy>();
+
+            print("Creating: " + currentEnemy.enemyName);
+            enemyNameText.text = currentEnemy.enemyName;
+            enemySpriteImage.sprite = currentEnemy.enemySprite;
+            enemyHPBar.maxValue = currentEnemy.maxHealth;
+            enemyHPBar.value = currentEnemy.currentHealth;
+            
+            StartCombat(currentEnemy);
+        }
+        else
+        {
+            Debug.LogError($"enemy prefab '{enemyPrefabName}' not found");
+        }
+    }
+
+    public void StartCombat(Enemy currentEnemy)
+    {
+        player = PlayerStats.Instance;
+        
         GameController.Instance.SetGameState(GameState.Combat);
-        Debug.Log($"Combat with: {enemy.enemyName}");
+        Debug.Log($"Combat with: {currentEnemy.enemyName}");
 
         StartCoroutine(PlayerTurn());
     }
@@ -27,40 +78,113 @@ public class CombatManager : MonoBehaviour
     private IEnumerator PlayerTurn()
     {
         Debug.Log("Player's turn");
-        yield return new WaitForSeconds(1f);
 
-        string playerChoice = "attack";
-
-        if (playerChoice == "attack")
+        while (true)
         {
-            
-        } 
-        
-        int damage = CombatSystem.CalculateDamage(10, currentEnemy.defense); // placeholder values
-        currentEnemy.TakeDamage(damage);
+            SetNarration("Choose your action: Attack, Defend, or Heal.");
+            playerChoice = "";
+            actionChosen = false;
 
-        if (currentEnemy.IsDefeated())
-        {
-            GameController.Instance.SetGameState(GameState.Win);
-            yield break;
+            // Wait for button click
+            yield return new WaitUntil(() => actionChosen);
+
+            switch (playerChoice)
+            {
+                case "attack":
+                    int damage = CombatSystem.CalculateDamage(player.currentDamage, currentEnemy.defense);
+                    currentEnemy.TakeDamage(damage);
+                    SetNarration($"You attack and deal {damage} damage!");
+                    break;
+
+                case "defend":
+                    player.isDefending = true;
+                    SetNarration("You brace for the next attack.");
+                    break;
+
+                case "heal":
+                    if (player.currentHeals <= 0)
+                    {
+                        SetNarration("No heals remaining. Choose another action.");
+                        actionChosen = false;
+                        yield return new WaitUntil(() => actionChosen);
+                        continue; // retry
+                    }
+                    else
+                    {
+                        player.Heal();
+                        SetNarration($"You healed for 10 HP!");
+                    }
+                    break;
+
+                default:
+                    SetNarration("Invalid action.");
+                    continue;
+            }
+
+            yield return new WaitForSeconds(1f);
+            break;  // exit loop if action was valid
         }
 
+            enemyHPBar.value = currentEnemy.currentHealth;
+            
+            if (currentEnemy.IsDefeated())
+            {
+                SetNarration($"You defeated {currentEnemy.enemyName}!");
+                GameController.Instance.SetGameState(GameState.Win);
+                yield break;
+            }
+        
         StartCoroutine(EnemyTurn());
     }
+
 
     private IEnumerator EnemyTurn()
     {
         Debug.Log("Enemy's turn");
+        SetNarration($"{currentEnemy.enemyName} is attacking!");
+
         yield return new WaitForSeconds(1f);
-        
+
         currentEnemy.Attack(player);
+
+        yield return new WaitForSeconds(1f);
 
         if (player.currentHealth <= 0)
         {
+            SetNarration("You were defeated...");
             GameController.Instance.SetGameState(GameState.Loss);
             yield break;
         }
 
+        // Reset defense status
+        player.isDefending = false;
+
         StartCoroutine(PlayerTurn());
+    }
+    
+    public void OnAttackButton()
+    {
+        playerChoice = "attack";
+        actionChosen = true;
+    }
+
+    public void OnDefendButton()
+    {
+        playerChoice = "defend";
+        actionChosen = true;
+    }
+
+    public void OnHealButton()
+    {
+        playerChoice = "heal";
+        actionChosen = true;
+    }
+
+    private void SetNarration(string message)
+    {
+        if (NarrationText != null)
+        {
+            NarrationText.text = message;
+        }
     }
 }

@@ -8,8 +8,10 @@ public class Chest : MonoBehaviour
 
     private SpriteRenderer _spriteRenderer;
     private bool isOpened = false;
-    
-    public Item itemToAdd;
+
+    public int addDamage = 0;
+    public int addDefense = 0;
+    public string chestContents;
     
     public float displayDuration = 2f;   
 
@@ -32,9 +34,13 @@ public class Chest : MonoBehaviour
     {
         isOpened = true;
         _spriteRenderer.sprite = openSprite;
+        
         // add item to inventory + dialogue of item found
-        InventoryManager.Instance.AddItem(itemToAdd);    
-        UIManager.Instance.ShowPopup($"Added “{itemToAdd.itemName}”!",displayDuration);
+
+        PlayerStats.Instance.IncreaseDamage(addDamage);
+        PlayerStats.Instance.IncreaseDefense(addDefense);
+        
+        UIManager.Instance.ShowPopup($"Added “{chestContents}”!",displayDuration);
 
     }
 }

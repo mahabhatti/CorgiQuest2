@@ -23,10 +23,10 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>();
     }
     
-    // void Start() // Called before first frame
-    // {
-    //     
-    // }
+    void Start() // Called before first frame
+    {
+        transform.position = GameController.Instance.GetSpawnPosition();
+    }
 
     private void Update() // Called once per frame
     {
@@ -86,20 +86,6 @@ public class PlayerController : MonoBehaviour
             StopCoroutine(moveCoroutine);
             moveCoroutine = null;
             isMoving = false;
-        }
-    }
-
-    public void TakeDamage(int amount)
-    {
-        currentHealth -= amount;
-        currentHealth = Mathf.Max(currentHealth, 0);
-        Debug.Log($"Sandie took {amount} damage. Current HP: {currentHealth}");
-
-        if (currentHealth <= 0)
-        {
-            Debug.Log("Sandie has been defeated.");
-            // add trigger loss screen, then respawn at campfire
-            // GameController.Instance.GameOver();
         }
     }
 }
