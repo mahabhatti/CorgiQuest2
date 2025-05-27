@@ -11,6 +11,19 @@ public class LossManager : MonoBehaviour
     //tracks whether the loss screen is being displayed
     private bool isLossShown = false;
 
+    
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+    
     private void Start()
     {
         if (lossPanel != null)
@@ -22,10 +35,10 @@ public class LossManager : MonoBehaviour
 
     private void Update()
     {
-        //must change condition
-        if (Input.GetKeyDown(KeyCode.L))
+        if (GameController.Instance.CurrentGameState == GameState.Loss)
         {
             ShowLoss();
+            GameController.Instance.SetGameState(GameState.Overworld);
         }
     }
 
@@ -40,9 +53,7 @@ public class LossManager : MonoBehaviour
         {
             return;
         }
-
-        // Pause game time to show the panel
-        Time.timeScale    = 0f;
+        
         lossPanel.SetActive(true);
         isLossShown = true;
     }
@@ -54,10 +65,9 @@ public class LossManager : MonoBehaviour
         {
             return;
         }
-        // Resume game time and hide the panel
-        Time.timeScale    = 1f;
+        
         lossPanel.SetActive(false);
-        isLossShown       = false;
+        isLossShown = false;
     }
     
     public void Respawn()

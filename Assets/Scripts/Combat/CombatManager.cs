@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using WaitForSeconds = UnityEngine.WaitForSeconds;
+using UnityEngine.SceneManagement;
 
 public class CombatManager : MonoBehaviour
 {
@@ -19,7 +20,9 @@ public class CombatManager : MonoBehaviour
     public Text enemyNameText;
     public Image enemySpriteImage;
     public Slider enemyHPBar;
-
+    
+    public Slider playerHPBar;
+    
     private void Start()
     {
         if (player == null)
@@ -56,6 +59,8 @@ public class CombatManager : MonoBehaviour
             enemySpriteImage.sprite = currentEnemy.enemySprite;
             enemyHPBar.maxValue = currentEnemy.maxHealth;
             enemyHPBar.value = currentEnemy.currentHealth;
+            playerHPBar.maxValue = player.maxHealth;
+            playerHPBar.value = player.currentHealth;
             
             StartCombat(currentEnemy);
         }
@@ -65,12 +70,13 @@ public class CombatManager : MonoBehaviour
         }
     }
 
-    public void StartCombat(Enemy currentEnemy)
+    public void StartCombat(Enemy curr)
     {
         player = PlayerStats.Instance;
+        player.currentHeals = player.maxHeals;
         
         GameController.Instance.SetGameState(GameState.Combat);
-        Debug.Log($"Combat with: {currentEnemy.enemyName}");
+        Debug.Log($"Combat with: {curr.enemyName}");
 
         StartCoroutine(PlayerTurn());
     }
@@ -112,7 +118,7 @@ public class CombatManager : MonoBehaviour
                     else
                     {
                         player.Heal();
-                        SetNarration($"You healed for 10 HP!");
+                        SetNarration($"You healed for {player.healHealth} HP!");
                     }
                     break;
 
@@ -120,19 +126,21 @@ public class CombatManager : MonoBehaviour
                     SetNarration("Invalid action.");
                     continue;
             }
-
-            yield return new WaitForSeconds(1f);
-            break;  // exit loop if action was valid
-        }
-
+            
             enemyHPBar.value = currentEnemy.currentHealth;
             
-            if (currentEnemy.IsDefeated())
-            {
-                SetNarration($"You defeated {currentEnemy.enemyName}!");
-                GameController.Instance.SetGameState(GameState.Win);
-                yield break;
-            }
+            yield return new WaitForSeconds(2f);
+            break;  // exit loop if action was valid
+        }
+        
+        if (currentEnemy.IsDefeated())
+        {
+            SetNarration($"You defeated {currentEnemy.enemyName}! +3 max health!");
+            PlayerStats.Instance.IncreaseHealth(3);
+            yield return new WaitForSeconds(3f);
+            GameController.Instance.MarkEnemyDefeated();
+            GameController.Instance.EndCombat();
+        }
         
         StartCoroutine(EnemyTurn());
     }
@@ -141,26 +149,47 @@ public class CombatManager : MonoBehaviour
     private IEnumerator EnemyTurn()
     {
         Debug.Log("Enemy's turn");
-        SetNarration($"{currentEnemy.enemyName} is attacking!");
 
-        yield return new WaitForSeconds(1f);
+        if (currentEnemy.isCharging)
+        {
+            SetNarration($"{currentEnemy.enemyName} unleashes a powerful attack!");
+            yield return new WaitForSeconds(1f);
 
-        currentEnemy.Attack(player);
+            SetNarration(currentEnemy.Attack(player, 2)); // Use 2x damage
+            currentEnemy.isCharging = false;
+        }
+        else
+        {
+            // 25% chance to charge
+            if (Random.value < 0.25f)
+            {
+                currentEnemy.isCharging = true;
+                SetNarration($"{currentEnemy.enemyName} is charging up a powerful attack!");
+            }
+            else
+            {
+                SetNarration($"{currentEnemy.enemyName} is attacking!");
+                yield return new WaitForSeconds(1f);
 
-        yield return new WaitForSeconds(1f);
+                SetNarration(currentEnemy.Attack(player, 1)); // Normal attack
+            }
+        }
+
+        playerHPBar.value = player.currentHealth;
+        yield return new WaitForSeconds(2f);
 
         if (player.currentHealth <= 0)
         {
             SetNarration("You were defeated...");
-            GameController.Instance.SetGameState(GameState.Loss);
+            yield return new WaitForSeconds(5f);
+            GameController.Instance.GameOver();
             yield break;
         }
 
-        // Reset defense status
         player.isDefending = false;
-
         StartCoroutine(PlayerTurn());
     }
+
     
     public void OnAttackButton()
     {

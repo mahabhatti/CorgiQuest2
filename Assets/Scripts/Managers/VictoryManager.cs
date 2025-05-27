@@ -5,11 +5,7 @@ public class VictoryManager : MonoBehaviour
     public GameObject victoryPanel;
     //tracks whether the victory screen is being displayed
     private bool isVictoryShown = false;
-
-    private void Awake()
-    {
-        DontDestroyOnLoad(gameObject);
-    }
+    
     private void Start()
     {
         if (victoryPanel != null)
@@ -19,12 +15,10 @@ public class VictoryManager : MonoBehaviour
         }
         
     }
-    private void Update()
+    
+    private void OnTriggerEnter2D(Collider2D other)
     {
-
-        
-        //Placeholder for WIN
-        if (Input.GetKeyDown(KeyCode.V))
+        if (other.CompareTag("Player"))
         {
             ShowVictory();
         }

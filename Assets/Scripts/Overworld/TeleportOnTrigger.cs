@@ -17,6 +17,7 @@ public class TeleportOnTrigger : MonoBehaviour
             
             other.transform.position = teleportTarget.position;
             GameController.Instance.SetBiomeState(SetBiome);
+            PlayerStats.Instance.currentHealth = PlayerStats.Instance.maxHealth;
         }
     }
 }

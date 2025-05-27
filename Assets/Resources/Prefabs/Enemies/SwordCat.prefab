@@ -162,8 +162,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyName: SwordCat
-  maxHealth: 60
+  enemyID: 
+  maxHealth: 35
   currentHealth: 0
   damage: 10
-  defense: 4
+  defense: 2
+  isCharging: 0
   enemySprite: {fileID: -3631973235763440427, guid: 527cd66c043d54aa5a89e929a9a581fd, type: 3}

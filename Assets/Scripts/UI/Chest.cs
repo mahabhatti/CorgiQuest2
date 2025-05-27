@@ -11,6 +11,7 @@ public class Chest : MonoBehaviour
 
     public int addDamage = 0;
     public int addDefense = 0;
+    public int addHeals = 0;
     public string chestContents;
     
     public float displayDuration = 2f;   
@@ -39,8 +40,9 @@ public class Chest : MonoBehaviour
 
         PlayerStats.Instance.IncreaseDamage(addDamage);
         PlayerStats.Instance.IncreaseDefense(addDefense);
+        PlayerStats.Instance.IncreaseHeals(addHeals);
         
-        UIManager.Instance.ShowPopup($"Added “{chestContents}”!",displayDuration);
+        UIManager.Instance.ShowPopup($"Added {chestContents}!",displayDuration);
 
     }
 }

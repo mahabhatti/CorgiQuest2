@@ -162,8 +162,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyName: Cat
-  maxHealth: 30
+  enemyID: 
+  maxHealth: 15
   currentHealth: 0
   damage: 5
-  defense: 2
+  defense: 0
+  isCharging: 0
   enemySprite: {fileID: -5169540416654859720, guid: afa163c18ec0f42bdaf5c4e4fd454477, type: 3}

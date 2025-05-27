@@ -77,15 +77,11 @@ public class GameController : MonoBehaviour
         Debug.Log("Biome state changed to: " + newState);
     }
     
-    public void SetCurrentEnemy(string enemyID)
+    public void SetCurrentEnemy(string enemyName, string enemyID)
     {
-        nextEnemyPrefabName = enemyID;
-        Debug.Log("Current enemy changed to: " + enemyID);
-    }
-
-    public void ResetBiomeEnemies()
-    {
-        defeatedEnemies.Clear();
+        nextEnemyPrefabName = enemyName;
+        CurrentEnemyID = enemyID;
+        Debug.Log("Current enemy changed to: " + enemyName + "aka" + enemyID);
     }
 
     public void RegisterSpawnPoint(BiomeState biome, Transform spawn)
@@ -95,6 +91,23 @@ public class GameController : MonoBehaviour
             biomeSpawns[biome] = spawn;
         }
     }
+    
+    public void ResetBiomeEnemies()
+    {
+        defeatedEnemies.Clear();
+    }
+    
+    public void MarkEnemyDefeated()
+    {
+        if (!defeatedEnemies.Contains(CurrentEnemyID))
+            defeatedEnemies.Add(CurrentEnemyID);
+    }
+
+    public bool IsEnemyDefeated(string enemyID)
+    {
+        return defeatedEnemies.Contains(enemyID);
+    }
+
 
     public Vector3 GetSpawnPosition()
     {
@@ -107,14 +120,17 @@ public class GameController : MonoBehaviour
 
     public void GameOver()
     {
+        GameController.Instance.SetGameState(GameState.Loss);
+        PlayerStats.Instance.ResetPosition();
+        ResetBiomeEnemies();
         SceneManager.LoadScene("Overworld");
         LossManager.Instance.ShowLoss();
     }
 
     public void ResetWorld()
     {
+        PlayerStats.Instance.maxHealth = 20;
         PlayerStats.Instance.ResetHealth();
-        ResetBiomeEnemies();
         GameObject player = GameObject.FindWithTag("Player");
         if (player != null)
         {
@@ -133,5 +149,11 @@ public class GameController : MonoBehaviour
         {
             Debug.LogWarning("Player Object not found");
         }
+    }
+
+    public void EndCombat()
+    {
+        SceneManager.LoadScene("Overworld");
+        PlayerStats.Instance.RestorePosition();
     }
 }
