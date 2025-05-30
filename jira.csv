@@ -1,0 +1,33 @@
+Key	Issue Type	Parent	Summary	Status	Assignee	Sprint	Start date	Inferred start date	Due date	Inferred due date	Issue color
+CGQ-1	Epic		Combat system	To Do	Tucker, Callie (Student)	CGQ Sprint 5		5/6/25		5/17/25	purple
+CGQ-12	Task	CGQ-1	Turn based system	Done	Tucker, Callie (Student)	CGQ Sprint 4		5/13/25		5/15/25	purple
+CGQ-11	Task	CGQ-1	Damage calculation	Done	Tucker, Callie (Student)	CGQ Sprint 3		5/6/25		5/8/25	purple
+CGQ-13	Task	CGQ-1	Action options	Done	Bhatti, Maha (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-14	Task	CGQ-1	Items for the Inventory Ststem	Done	Bhatti, Maha (Student)	CGQ Sprint 2		5/3/25		5/17/25	purple
+CGQ-54	Task	CGQ-1	Implement basic CombatSystem (Sandie vs Cat)	Done	Tucker, Callie (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-63	Task	CGQ-1	Link First Battle UI with Scripts	To Do	Jung, Jane (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-6	Task	CGQ-2	Title screen UI	Done	Jung, Jane (Student)	CGQ Sprint 2		5/3/25		5/6/25	purple
+CGQ-50	Task	CGQ-2	Decide which game assets will be used & load into project	Done	Jung, Jane (Student)	CGQ Sprint 2		5/3/25		5/6/25	purple
+CGQ-56	Task	CGQ-2	Cat Battle UI	Done	Jung, Jane (Student)	CGQ Sprint 4		5/13/25		5/15/25	purple
+CGQ-3	Epic		Enemies	To Do	Jung, Jane (Student)	CGQ Sprint 4		5/13/25		5/17/25	purple
+CGQ-14	Task	CGQ-3	Create general enemy class	Done	Jung, Jane (Student)	CGQ Sprint 4		5/13/25		5/15/25	purple
+CGQ-58	Task	CGQ-3	Cat	Done	Jung, Jane (Student)	CGQ Sprint 4		5/13/25		5/15/25	purple
+CGQ-64	Task	CGQ-3	Sword Cat Implementation + Battle UI	Done	Jung, Jane (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-5	Epic		Player	Done	Jung, Jane (Student)	CGQ Sprint 3		5/3/25		5/6/25	purple
+CGQ-57	Task	CGQ-5	Implement basic Sandie movement	Done	Tucker, Callie (Student)	CGQ Sprint 2		5/3/25		5/6/25	purple
+CGQ-27	Epic		World	Done	Tucker, Callie (Student)	CGQ Sprint 3		5/3/25		5/17/25	purple
+CGQ-51	Task	CGQ-27	Create empty scenes for each biome/screen	Done	Tucker, Callie (Student)	CGQ Sprint 2		5/3/25		5/6/25	purple
+CGQ-52	Task	CGQ-27	Implement basic biome transitions (Forest -> Savanna -> Mountain)	Done	Tucker, Callie (Student)	CGQ Sprint 2		5/3/25		5/6/25	purple
+CGQ-66	Task	CGQ-27	Stat Modifications	Done	Bhatti, Maha (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-65	Task	CGQ-27	Side Chest Item Implementation 	Done	Bhatti, Maha (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-67	Task	CGQ-27	Biome States	Done	Tucker, Callie (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-62	Task	CGQ-27	Enemy Overworld Object	Done	Jung, Jane (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-38	Story	CGQ-27	Implement Side Chests + UI	Done	Jung, Jane (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-47	Task	CGQ-45	Setup tools (Create Unity project, Rider, push to Github)	Done	All	CGQ Sprint 1		4/29/25		5/1/25	purple
+CGQ-48	Task	CGQ-45	UI triggers	Done	Bhatti, Maha (Student)	CGQ Sprint 2		5/3/25		5/6/25	purple
+CGQ-59	Task	CGQ-45	Game triggers	Done	Bhatti, Maha (Student)	CGQ Sprint 2		5/3/25		5/6/25	purple
+CGQ-21	Task	CGQ-1	Inventory Manager	Done	Bhatti, Maha (Student)	CGQ Sprint 3		5/3/25		5/17/25	purple
+CGQ-21	Task	CGQ-1	Game controller implementation	Done	Bhatti, Maha (Student)	CGQ Sprint 2		5/3/25		5/17/25	purple
+CGQ-21	Task	CGQ-1	Inventory UI (Scrapped)	Done	Bhatti, Maha (Student)	CGQ Sprint 3		5/3/25		5/17/25	purple
+CGQ-70	Task	CGQ-1	Victory Overlay	Done	Bhatti, Maha (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
+CGQ-71	Task	CGQ-1	Death Overlay	Done	Bhatti, Maha (Student)	CGQ Sprint 5		5/15/25		5/17/25	purple
