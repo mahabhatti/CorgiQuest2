@@ -1,28 +1,15 @@
-using System;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class SwordCat : Enemy
 {
-    public override void Attack(PlayerStats player)
+    public override string Attack(PlayerStats player, int multiplier)
     {
-        int calculatedDamage = CombatSystem.CalculateDamage(damage + 3, player.currentDefense);
+        int multipliedDamage = damage * multiplier;
+        int effectiveDefense = CombatSystem.ApplyDefense(player.currentDefense, player.isDefending);
+        int calculatedDamage = CombatSystem.CalculateDamage(multipliedDamage, effectiveDefense);
         player.TakeDamage(calculatedDamage);
-        Debug.Log("SwordCat slashes");
-    }
-
-    protected override void Defeat()
-    {
-        base.Defeat();
-        Debug.Log("SwordCat defeated");
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            GameController.Instance.SetCurrentEnemy("SwordCat");
-            SceneManager.LoadScene("CombatScreen");
-        }
+        string narration = $"SwordCat slashes its sword for {calculatedDamage} damage!";
+        Debug.Log(narration);
+        return narration;
     }
 }

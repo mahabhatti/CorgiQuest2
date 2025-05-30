@@ -162,8 +162,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyName: FatCat
-  maxHealth: 90
+  enemyID: 
+  maxHealth: 50
   currentHealth: 0
   damage: 15
-  defense: 6
+  defense: 3
+  isCharging: 0
   enemySprite: {fileID: 3549410552162839134, guid: 07d147e56344c4e1d9e62bf656b26147, type: 3}

@@ -1341,6 +1341,7 @@ MonoBehaviour:
   enemyNameText: {fileID: 22518596}
   enemySpriteImage: {fileID: 1478053314}
   enemyHPBar: {fileID: 1382295130}
+  playerHPBar: {fileID: 74796326}
 --- !u!1 &1076148401
 GameObject:
   m_ObjectHideFlags: 0
@@ -2195,7 +2196,7 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 6
     m_MaxSize: 60
-    m_Alignment: 0
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0

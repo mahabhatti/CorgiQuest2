@@ -568,15 +568,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d306fe2db56dc4efea97b4a1a3765325, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 20
   currentHealth: 0
   initialDamage: 3
   currentDamage: 0
-  initialDefense: 3
+  initialDefense: 1
   currentDefense: 0
   maxHeals: 1
   currentHeals: 0
+  healHealth: 10
   isDefending: 0
+  savedPosition: {x: 36.5, y: 0.76575}
 --- !u!4 &1071670286
 Transform:
   m_ObjectHideFlags: 0
@@ -1090,7 +1092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentGameState: 0
-  CurrentBiomeState: 2
+  CurrentBiomeState: 0
   nextEnemyPrefabName: 
 --- !u!4 &1867070850
 Transform:

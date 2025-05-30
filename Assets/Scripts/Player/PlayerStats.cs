@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using static System.Math;
 
 public class PlayerStats : MonoBehaviour
 {
@@ -7,11 +9,13 @@ public class PlayerStats : MonoBehaviour
     public int currentHealth;
     public int initialDamage = 3;
     public int currentDamage;
-    public int initialDefense = 3;
+    public int initialDefense = 1;
     public int currentDefense;
     public int maxHeals = 1;
     public int currentHeals;
+    public int healHealth = 10;
     public bool isDefending = false;
+    public Vector2 savedPosition;
 
     void Awake()
     {
@@ -27,10 +31,16 @@ public class PlayerStats : MonoBehaviour
         currentDefense = initialDefense;
         currentHeals = maxHeals;
     }
-
+    
     public void ResetHealth()
     {
         currentHealth = maxHealth;
+    }
+
+    public void IncreaseHealth(int amount)
+    {
+        maxHealth += amount;
+        currentHealth = Min(currentHealth + amount, maxHealth);
     }
 
     public void IncreaseDamage(int amount)
@@ -48,24 +58,41 @@ public class PlayerStats : MonoBehaviour
         maxHeals += amount;
     }
     
-    public void TakeDamage(int amount)
+    public void TakeDamage(int incomingDamage)
     {
-        currentHealth -= amount;
+        currentHealth -= incomingDamage;
         currentHealth = Mathf.Max(currentHealth, 0);
-        Debug.Log($"Sandie took {amount} damage. Current HP: {currentHealth}");
-
-        if (currentHealth <= 0)
-        {
-            Debug.Log("Sandie has been defeated.");
-            // add trigger loss screen, then respawn at campfire
-            GameController.Instance.GameOver();
-        }
+        
+        Debug.Log($"Sandie took {incomingDamage} damage. Current HP: {currentHealth}");
     }
 
     public void Heal()
     {
-        currentHealth = Mathf.Max(maxHealth, currentHealth + 10);
+        currentHealth = Mathf.Max(maxHealth, currentHealth + healHealth);
         currentHeals--;
     }
     
+    public void SavePosition()
+    {
+        GameObject player = GameObject.FindWithTag("Player");
+        if (player != null)
+        {
+            savedPosition = player.transform.position;
+        }
+    }
+
+    public void RestorePosition()
+    {
+        GameObject player = GameObject.FindWithTag("Player");
+        if (player != null)
+        {
+            player.transform.position = savedPosition;
+        }
+    }
+
+    public void ResetPosition()
+    {
+        savedPosition = new Vector2((float)36.50, (float)0.76575);
+    }
+
 }

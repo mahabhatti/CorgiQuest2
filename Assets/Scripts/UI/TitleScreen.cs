@@ -8,6 +8,7 @@ public class TitleScreen : MonoBehaviour
         GameController.Instance.SetGameState(GameState.Overworld);
         // GameController.Instance.SetBiomeState(BiomeState.Forest);
         SceneManager.LoadScene("Overworld");
+        GameController.Instance.ResetWorld();
     }
 
     public void QuitGame()
