@@ -11,10 +11,9 @@ Cinemachine package required
 
 Instructions to Run:
 After cloning the repo, open Unity Hub, click Add, then select the CorgiQuest2 folder
-to open the project in Unity. In the Editor, press Play to run the game; 
-use arrow keys to move the corgi, E to interact with chests. To win the game, you must 
-open every chest in all biomes avoiding obstacles and fighting enemies, and walk 
-through the exit. 
+to open the project in Unity. In the Editor, select the TitleScreen Scene in the Scenes folder, 
+press Play to run the game; use arrow keys to move the corgi, collect items in chests to help defeat enemies. 
+To win the game, avoid obstacles and fight enemies to find the dog bone.
 
 Design Decisions and Architecture:
 We mapped each core responsibility onto the MVC layers. We have models or managers for 
